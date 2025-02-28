@@ -1,2 +1,3 @@
-# gridpath_india_viz
-Plotting companion to GridPath India
+# GridPath India Plotting Companion
+
+Plotting functionalities in Python for GridPath India national model.
