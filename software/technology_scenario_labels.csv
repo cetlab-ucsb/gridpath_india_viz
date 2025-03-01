@@ -1,0 +1,6 @@
+zone,scenario,label,color,linestyle,marker,tag
+all,VREmid_STmid_CONVmid_RES_10PRM_CC_50RPS_90CAP_500GW_PIERmid,No Alternative,#521A1A,solid,None,C3
+all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_90CAP_500GW_PIERmid,Alternative (H2),#92918B,solid,None,C1
+all,VREmid_STmid_CONVmid_PSH_RES_10PRM_CC_50RPS_90CAP_500GW_PIERmid,Alternative (PSH),#92918B,solid,None,C1
+all,VREmid_STmid_CONVmid_N_RES_10PRM_CC_50RPS_90CAP_500GW_PIERmid,Alternative (nuclear),#92918B,dashed,None,C4
+all,VREmid_STmid_CONVmid_H2PSHN_RES_10PRM_CC_50RPS_90CAP_500GW_PIERmid,Alternative (all),#126463,dashed,None,C5

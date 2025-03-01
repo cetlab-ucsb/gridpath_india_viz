@@ -1,0 +1,25 @@
+group,technology,group_color,color
+Coal,Subcritical_Coal_Large,#343a40,#343a40
+Coal,Subcritical_Coal_Small,#343a40,#343a40
+Coal,Supercritical_Coal,#343a40,#343a40
+Gas,CCGT,#6c757d,#6c757d
+Gas,CT,#6c757d,#6c757d
+Diesel,Diesel,#924B00,#924B00
+Hydro,Hydro_ROR,#2a648a,#2a648a
+Hydro,Hydro_Storage,#2a648a,#2a648a
+Other,Biomass,#6ba661,#6a96ac
+Other,WHR,#6ba661,#6ba661
+Hydrogen,Hydrogen,teal,teal
+Battery,Battery,#e7c41f,#e7c41f
+Nuclear,Nuclear,#8d72b3,#8d72b3
+Pumped Storage,Hydro_Pumped,#6a96ac,#2a648a
+Solar,SolarPV_tilt,#ef9226,#ef9226
+Solar,SolarPV_single,#ef9226,#daac77
+Solar,SolarPV_roof,#ef9226,#daac77
+Wind,Offshore,#8dc0cd,#8dc0cd
+Wind,Wind,#8dc0cd,#8dc0cd
+Export,Export,#55A182,#55A182
+Curtailment,Curtailment,#c94f39,#c94f39
+Tx_Losses,Tx_Losses,#656d4a,#656d4a
+Import,Import,#900C3F,#900C3F
+Shedding,Shedding,pink,pink

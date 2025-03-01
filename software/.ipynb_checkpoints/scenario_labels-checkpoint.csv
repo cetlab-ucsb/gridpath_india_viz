@@ -1,0 +1,4 @@
+zone,scenario,label,color,linestyle,marker,tag
+Madhya_Pradesh,VRElow_STlow_CONVmid_BPHS_NuclearPVboth_45Ret_PRM110-3_2030_12-capex-MP,VRE & ST (low),#92918B,solid,o,C1
+Madhya_Pradesh,VREmid_STmid_CONVmid_BPHS_NuclearPVboth_45Ret_PRM110-3_2030_12-capex-MP,VRE & ST (mid),#126463,dotted,o,C2
+Madhya_Pradesh,VREhigh_SThigh_CONVmid_BPHS_NuclearPVboth_45Ret_PRM110-3_2030_12-capex-MP,VRE & ST (high),#521A1A,dashed,o,C3
