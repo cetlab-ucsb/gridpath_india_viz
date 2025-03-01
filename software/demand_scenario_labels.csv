@@ -1,7 +1,7 @@
-zone,scenario,label,color,linestyle,marker,tag
-all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_90CAP_500GW_ICEDlow,ICED 2019 (low),#521A1A,solid,None,C3
-all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_90CAP_500GW_ICEDmid,ICED 2019 (mid),#92918B,solid,None,C1
-all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_90CAP_500GW_ICEDhigh,ICED 2019 (high),#92918B,solid,None,C1
-all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_90CAP_500GW_PIERlow,PIER v2.0 (low),#92918B,dashed,None,C4
-all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_90CAP_500GW_PIERmid,PIER v2.0 (mid),#126463,dashed,None,C5
-all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_90CAP_500GW_PIERhigh,PIER v2.0 (high),#521A1A,dashed,None,C6
+zone,scenario,label,color,linestyle,marker,tag,path
+all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_90CAP_500GW_ICEDlow,ICED 2019 (low),#521A1A,solid,None,C3,/Users/Guille/Desktop/india_power/scenarios/demand
+all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_90CAP_500GW_ICEDmid,ICED 2019 (mid),#92918B,solid,None,C1,/Users/Guille/Desktop/india_power/scenarios/demand
+all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_90CAP_500GW_ICEDhigh,ICED 2019 (high),#92918B,solid,None,C1,/Users/Guille/Desktop/india_power/scenarios/demand
+all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_90CAP_500GW_PIERlow,PIER v2.0 (low),#92918B,dashed,None,C4,/Users/Guille/Desktop/india_power/scenarios/demand
+all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_90CAP_500GW_PIERmid,PIER v2.0 (mid),#126463,dashed,None,C5,/Users/Guille/Desktop/india_power/scenarios/demand
+all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_90CAP_500GW_PIERhigh,PIER v2.0 (high),#521A1A,dashed,None,C6,/Users/Guille/Desktop/india_power/scenarios/demand
