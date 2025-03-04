@@ -1,0 +1,7 @@
+zone,scenario,label,color,linestyle,marker,tag,path
+all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_90CAP_500GW_ICEDlow,ICED 2019 (low),#92918b,solid,None,C1,/Users/Guille/Desktop/india_power/scenarios/demand
+all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_90CAP_500GW_ICEDmid,ICED 2019 (mid),#136564,solid,None,C2,/Users/Guille/Desktop/india_power/scenarios/demand
+all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_90CAP_500GW_ICEDhigh,ICED 2019 (high),#2cb7b5,solid,None,C3,/Users/Guille/Desktop/india_power/scenarios/demand
+all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_90CAP_500GW_PIERlow,PIER v2.0 (low),#756a01,dashed,None,C4,/Users/Guille/Desktop/india_power/scenarios/demand
+all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_90CAP_500GW_PIERmid,PIER v2.0 (mid),#ca8250,dashed,None,C5,/Users/Guille/Desktop/india_power/scenarios/demand
+all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_90CAP_500GW_PIERhigh,PIER v2.0 (high),#d8a581,dashed,None,C6,/Users/Guille/Desktop/india_power/scenarios/demand

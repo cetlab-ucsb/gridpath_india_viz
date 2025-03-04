@@ -18,7 +18,7 @@ Solar,SolarPV_single,#ef9226,#daac77
 Solar,SolarPV_roof,#ef9226,#daac77
 Wind,Offshore,#8dc0cd,#8dc0cd
 Wind,Wind,#8dc0cd,#8dc0cd
-Export,Export,#daf7a6,#55A182
+Export,Export,#2cb4b4,#55A182
 Curtailment,Curtailment,#c94f39,#c94f39
 Tx_Losses,Tx_Losses,#656d4a,#656d4a
 Import,Import,#900C3F,#900C3F
