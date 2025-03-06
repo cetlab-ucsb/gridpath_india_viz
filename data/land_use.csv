@@ -1,0 +1,20 @@
+technology,land_use_intensity,units,type
+Subcritical_Coal_Large,17.2,m2/MWh per year,power_mw
+Subcritical_Coal_Small,18.7,m2/MWh per year,power_mw
+Supercritical_Coal,16.1,m2/MWh per year,power_mw
+CCGT,1.4,m2/MWh per year,power_mw
+CT,1.9,m2/MWh per year,power_mw
+Diesel,2.6,m2/MWh per year,power_mw
+Hydro_ROR,32.7,m2/MWh per year,power_mw
+Hydro_Storage,11.8,m2/MWh per year,power_mw
+Biomass,0.005,m2/MWh per year,power_mw
+WHR,0.005,m2/MWh per year,power_mw
+Hydrogen,3561.2,m2/MW,capacity_mw
+Battery,56.7,m2/MWh,capacity_mwh
+Nuclear,0.8,m2/MWh per year,power_mw
+Hydro_Pumped,26.4,m2/MWh,capacity_mwh
+SolarPV_tilt,21.6,m2/MWh per year,power_mw
+SolarPV_single,24.9,m2/MWh per year,power_mw
+SolarPV_roof,12.3,m2/MWh per year,power_mw
+Offshore,0.9,m2/MWh per year,power_mw
+Wind,1,m2/MWh per year,power_mw

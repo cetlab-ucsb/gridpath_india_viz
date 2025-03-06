@@ -2,5 +2,5 @@ zone,scenario,label,color,linestyle,marker,tag,path
 all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_PIERmid,No Clean-Target & C-CAP (PIER),#92918b,solid,None,C1,/Users/Guille/Desktop/india_power/scenarios/policy
 all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_500GW_PIERmid,No C-CAP (PIER),#136564,dashed,None,C2,/Users/Guille/Desktop/india_power/scenarios/policy
 all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_80CAP_500GW_PIERmid,80% C-CAP (PIER),#2cb7b5,dotted,None,C3,/Users/Guille/Desktop/india_power/scenarios/policy
-all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_90CAP_500GW_PIERmid,90% C-CAP (PIER),#756a01,dashdotted,None,C4,/Users/Guille/Desktop/india_power/scenarios/policy
-all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_100CAP_500GW_PIERmid,100% C-CAP (PIER),#ca8250,dashdotdotted,None,C5,/Users/Guille/Desktop/india_power/scenarios/policy
+all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_90CAP_500GW_PIERmid,90% C-CAP (PIER),#756a01,dashdot,None,C4,/Users/Guille/Desktop/india_power/scenarios/policy
+all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_100CAP_500GW_PIERmid,100% C-CAP (PIER),#ca8250,solid,None,C5,/Users/Guille/Desktop/india_power/scenarios/policy
