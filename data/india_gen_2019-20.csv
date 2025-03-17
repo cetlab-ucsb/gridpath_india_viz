@@ -1,0 +1,164 @@
+state,FY,source,power_mw,generation_gwh
+Andhra Pradesh,2020,Coal,11590,56916.07
+Andhra Pradesh,2020,Oil & Gas,4935.34,3013.62
+Andhra Pradesh,2020,Hydro,1610,3013.43
+Andhra Pradesh,2020,Solar,3698.32,5855.11
+Andhra Pradesh,2020,Wind,4092.45,7626.64
+Andhra Pradesh,2020,Small Hydro,162.11,298.19
+Andhra Pradesh,2020,Bio Power,528.55,213.27
+Andaman and Nicobar Islands,2020,Oil & Gas,40.05,96.19
+Andaman and Nicobar Islands,2020,Solar,12.43,11.6
+Andaman and Nicobar Islands,2020,Small Hydro,5.25,5.7
+Arunachal Pradesh,2020,Hydro,815,1786.46
+Arunachal Pradesh,2020,Solar,9.87,1.6
+Arunachal Pradesh,2020,Small Hydro,131.11,0.64
+Assam,2020,Coal,750,3929.96
+Assam,2020,Oil & Gas,619.21,2808.73
+Assam,2020,Hydro,350,1291.68
+Assam,2020,Solar,49.75,6.14
+Assam,2020,Small Hydro,34.11,52.62
+Bihar,2020,Coal,6390,35360.76
+Bihar,2020,Solar,172.19,160.16
+Bihar,2020,Small Hydro,70.7,18.98
+Bihar,2020,Bio Power,122.2,179.54
+Chandigarh,2020,Solar,41.36,13.33
+Chhattisgarh,2020,Coal,23128,117992.27
+Chhattisgarh,2020,Hydro,120,236.79
+Chhattisgarh,2020,Solar,424.06,326.42
+Chhattisgarh,2020,Small Hydro,76,101.75
+Chhattisgarh,2020,Bio Power,244.83,679.7
+Delhi,2020,Oil & Gas,2208.4,6015.11
+Delhi,2020,Solar,166.62,136.3
+Delhi,2020,Bio Power,52,287.39
+Goa,2020,Oil & Gas,48,0
+Goa,2020,Solar,4.9,0.82
+Goa,2020,Small Hydro,0.05,0
+Goa,2020,Bio Power,0.34,0
+Gujarat,2020,Coal,16232,84590.62
+Gujarat,2020,Oil & Gas,7551.41,13515.42
+Gujarat,2020,Nuclear,440,3428.6
+Gujarat,2020,Hydro,1990,5414.68
+Gujarat,2020,Solar,2986.77,3631.86
+Gujarat,2020,Wind,7541.52,13748.53
+Gujarat,2020,Small Hydro,68.95,194.8
+Gujarat,2020,Bio Power,96.53,141.75
+Haryana,2020,Coal,5540,16761.85
+Haryana,2020,Oil & Gas,431.59,555.16
+Haryana,2020,Solar,263.14,125.14
+Haryana,2020,Small Hydro,73.5,326.89
+Haryana,2020,Bio Power,210.55,281.47
+Himachal Pradesh,2020,Hydro,9809.02,40834.88
+Himachal Pradesh,2020,Solar,40.18,11.66
+Himachal Pradesh,2020,Small Hydro,911.51,2155.58
+Himachal Pradesh,2020,Bio Power,8.2,0
+Jammu and Kashmir,2020,Oil & Gas,175,0
+Jammu and Kashmir,2020,Hydro,3360,18094.12
+Jammu and Kashmir,2020,Solar,40.63,0
+Jammu and Kashmir,2020,Small Hydro,180.48,443.13
+Jharkhand,2020,Coal,4590,26072.08
+Jharkhand,2020,Hydro,210,150.96
+Jharkhand,2020,Solar,55.45,17.47
+Jharkhand,2020,Small Hydro,4.05,5.43
+Jharkhand,2020,Bio Power,4.3,0
+Karnataka,2020,Coal,9480,23836.42
+Karnataka,2020,Oil & Gas,25.2,0
+Karnataka,2020,Nuclear,880,7278.22
+Karnataka,2020,Hydro,3644.2,14014.27
+Karnataka,2020,Solar,7306.18,11221.2
+Karnataka,2020,Wind,4790.6,10148.66
+Karnataka,2020,Small Hydro,1280.73,1901.91
+Karnataka,2020,Bio Power,1896.42,2376.65
+Kerala,2020,Oil & Gas,693.54,12.04
+Kerala,2020,Hydro,1856.5,5454.04
+Kerala,2020,Solar,162.38,143.59
+Kerala,2020,Wind,62.5,119.77
+Kerala,2020,Small Hydro,222.02,530.37
+Kerala,2020,Bio Power,0.95,11.03
+Madhya Pradesh,2020,Coal,21150,114818.28
+Madhya Pradesh,2020,Hydro,2235,6281.74
+Madhya Pradesh,2020,Solar,2309.29,3496.23
+Madhya Pradesh,2020,Wind,2519.89,4426
+Madhya Pradesh,2020,Small Hydro,95.91,246.16
+Madhya Pradesh,2020,Bio Power,125.66,129.49
+Maharashtra,2020,Coal,24966,107002.16
+Maharashtra,2020,Oil & Gas,3207.08,7999.04
+Maharashtra,2020,Nuclear,1400,10536.43
+Maharashtra,2020,Hydro,3047,5880.58
+Maharashtra,2020,Solar,1835.62,2372.68
+Maharashtra,2020,Wind,5000.33,7984.27
+Maharashtra,2020,Small Hydro,379.58,695.56
+Maharashtra,2020,Bio Power,2559.74,2933.28
+Manipur,2020,Oil & Gas,36,0
+Manipur,2020,Hydro,105,366.59
+Manipur,2020,Solar,9.98,2.63
+Manipur,2020,Small Hydro,5.45,1.57
+Meghalaya,2020,Hydro,322,1018.29
+Meghalaya,2020,Solar,3.85,0
+Meghalaya,2020,Small Hydro,32.53,62.73
+Meghalaya,2020,Bio Power,13.8,0
+Mizoram,2020,Hydro,60,177.02
+Mizoram,2020,Solar,6.05,0.44
+Mizoram,2020,Small Hydro,36.47,49.56
+Nagaland,2020,Hydro,75,180.85
+Nagaland,2020,Solar,2.84,0
+Nagaland,2020,Small Hydro,30.67,75.87
+Odisha,2020,Coal,9800,41207.31
+Odisha,2020,Hydro,2142.25,6728.77
+Odisha,2020,Solar,420.28,362.29
+Odisha,2020,Small Hydro,64.63,299.65
+Odisha,2020,Bio Power,59.22,66.59
+Odisha,2020,Wind,-,54.66
+Puducherry,2020,Oil & Gas,32.5,255.79
+Puducherry,2020,Solar,5.69,4.15
+Punjab,2020,Coal,5680,20901.67
+Punjab,2020,Hydro,1096.3,5123.48
+Punjab,2020,Solar,961.71,1358.22
+Punjab,2020,Small Hydro,173.55,712.77
+Punjab,2020,Bio Power,335.3,651.53
+Punjab,2020,Wind,-,16.9
+Rajasthan,2020,Coal,9820,45851.11
+Rajasthan,2020,Oil & Gas,1023.13,1033.51
+Rajasthan,2020,Nuclear,1180,8451.58
+Rajasthan,2020,Hydro,411,606.18
+Rajasthan,2020,Solar,5275.27,7776.56
+Rajasthan,2020,Wind,4299.72,6155.82
+Rajasthan,2020,Small Hydro,23.85,9.75
+Rajasthan,2020,Bio Power,125.13,389.94
+Sikkim,2020,Hydro,2169,11027.36
+Sikkim,2020,Solar,1.94,0
+Sikkim,2020,Small Hydro,52.11,60.62
+Tamil Nadu,2020,Coal,13160,62876.46
+Tamil Nadu,2020,Oil & Gas,1228.88,2869.99
+Tamil Nadu,2020,Nuclear,2440,12986.33
+Tamil Nadu,2020,Hydro,2178.2,4765.24
+Tamil Nadu,2020,Solar,3961.56,4946.63
+Tamil Nadu,2020,Wind,9304.34,14126.92
+Tamil Nadu,2020,Small Hydro,123.05,235.76
+Tamil Nadu,2020,Bio Power,1021.69,454.58
+Telangana,2020,Coal,7182.5,47347.78
+Telangana,2020,Hydro,2405.6,4507.04
+Telangana,2020,Solar,3629.1,6263.92
+Telangana,2020,Wind,128.1,238.27
+Telangana,2020,Small Hydro,90.87,46.29
+Telangana,2020,Bio Power,189.18,245.78
+Tripura,2020,Oil & Gas,1132.1,6092.94
+Tripura,2020,Solar,12.9,3.43
+Tripura,2020,Small Hydro,16.01,24.67
+Uttarakhand,2020,Oil & Gas,450,1986.79
+Uttarakhand,2020,Hydro,3756.35,14554.53
+Uttarakhand,2020,Solar,327.57,341.51
+Uttarakhand,2020,Small Hydro,214.32,742.19
+Uttarakhand,2020,Bio Power,139.72,110.26
+Uttar Pradesh,2020,Coal,22409,117018.91
+Uttar Pradesh,2020,Oil & Gas,1493.14,2296.54
+Uttar Pradesh,2020,Nuclear,440,3791.29
+Uttar Pradesh,2020,Hydro,501.6,1073.48
+Uttar Pradesh,2020,Solar,1208.52,1447.05
+Uttar Pradesh,2020,Small Hydro,25.1,36.43
+Uttar Pradesh,2020,Bio Power,2165.75,3659.74
+West Bengal,2020,Coal,14165,71395.39
+West Bengal,2020,Oil & Gas,80,0
+West Bengal,2020,Hydro,1341.2,2916.38
+West Bengal,2020,Solar,127.24,64.29
+West Bengal,2020,Small Hydro,98.5,115.68
+West Bengal,2020,Bio Power,321.09,1295.07
