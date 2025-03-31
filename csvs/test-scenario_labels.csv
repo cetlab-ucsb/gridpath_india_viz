@@ -1,0 +1,3 @@
+zone,scenario,label,color,linestyle,linewidth,order,marker,path
+all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_90CAP_500GW_PIERmid-day,Day,#92918b,solid,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios
+all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_90CAP_500GW_PIERmid-month,Month,#ca8250,solid,3,9,None,/Users/Guille/Desktop/india_power/scenarios
