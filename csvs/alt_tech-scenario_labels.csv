@@ -1,6 +1,6 @@
 zone,scenario,label,color,linestyle,linewidth,order,marker,path
 all,VREmid_STmid_CONVmid_RES_10PRM_CC_50RPS_90CAP_500GW_PIERmid,No Alternative,#92918b,solid,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/technology
-all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_90CAP_500GW_PIERmid,Ref - Alternative (H2),#ca8250,solid,3,9,None,/Users/Guille/Desktop/india_power/scenarios/technology
+all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_90CAP_500GW_PIERmid,Alternative (H2) - REF,#ca8250,solid,3,9,None,/Users/Guille/Desktop/india_power/scenarios/technology
 all,VREmid_STmid_CONVmid_PSH_RES_10PRM_CC_50RPS_90CAP_500GW_PIERmid,Alternative (PSH),#136564,dashed,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/technology
 all,VREmid_STmid_CONVmid_N_RES_10PRM_CC_50RPS_90CAP_500GW_PIERmid,Alternative (nuclear),#2cb7b5,dotted,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/technology
 all,VREmid_STmid_CONVmid_H2PSH_RES_10PRM_CC_50RPS_90CAP_500GW_PIERmid,Alternative (H2 & PSH),#756a01,dashdot,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/technology

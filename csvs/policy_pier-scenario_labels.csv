@@ -3,5 +3,5 @@ all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_PIERmid,"No RPO,  Clean Target, or Carb
 all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_PIERmid,No Clean Target or Carbon Target,#136564,dashed,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/policy
 all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_500GW_PIERmid,No Carbon Target,#2cb7b5,dotted,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/policy
 all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_80CAP_500GW_PIERmid,80% Carbon Target,#756a01,dashdot,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/policy
-all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_90CAP_500GW_PIERmid,Ref - 90% Carbon Target,#ca8250,solid,3,9,None,/Users/Guille/Desktop/india_power/scenarios/policy
+all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_90CAP_500GW_PIERmid,90% Carbon Target - REF,#ca8250,solid,3,9,None,/Users/Guille/Desktop/india_power/scenarios/policy
 all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_100CAP_500GW_PIERmid,100% Carbon Target,#d8a581,dashed,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/policy
