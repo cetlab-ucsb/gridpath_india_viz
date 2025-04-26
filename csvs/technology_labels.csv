@@ -1,25 +1,25 @@
-group,technology,group_color,color,order
-Coal,Subcritical_Coal_Large,#343a40,#343a40,1
-Coal,Subcritical_Coal_Small,#343a40,#343a40,1
-Coal,Supercritical_Coal,#343a40,#343a40,1
-Gas,CCGT,#6c757d,#6c757d,2
-Gas,CT,#6c757d,#6c757d,2
-Diesel,Diesel,#924B00,#924B00,3
-Hydro,Hydro_ROR,#2a648a,#2a648a,6
-Hydro,Hydro_Storage,#2a648a,#2a648a,6
-Other,Biomass,#6ba661,#6a96ac,5
-Other,WHR,#6ba661,#6ba661,5
-Hydrogen,Hydrogen,teal,teal,11
-Battery,Battery,#e7c41f,#e7c41f,10
-Nuclear,Nuclear,#8d72b3,#8d72b3,4
-Pumped Storage,Hydro_Pumped,#6a96ac,#2a648a,9
-Solar,SolarPV_tilt,#ef9226,#ef9226,7
-Solar,SolarPV_single,#ef9226,#daac77,7
-Solar,SolarPV_roof,#ef9226,#daac77,7
-Wind,Offshore,#8dc0cd,#8dc0cd,8
-Wind,Wind,#8dc0cd,#8dc0cd,8
-Export,Export,#2cb4b4,#55A182,13
-Curtailment,Curtailment,#c94f39,#c94f39,15
-Transmission Losses,Tx_Losses,#656d4a,#656d4a,12
-Import,Import,#900C3F,#900C3F,14
-Shedding,Shedding,pink,pink,16
+group,technology,group_color,color,order,order_v2
+Coal,Subcritical_Coal_Large,#343a40,#343a40,1,7
+Coal,Subcritical_Coal_Small,#343a40,#343a40,1,7
+Coal,Supercritical_Coal,#343a40,#343a40,1,7
+Gas,CCGT,#6c757d,#6c757d,2,8
+Gas,CT,#6c757d,#6c757d,2,8
+Diesel,Diesel,#924B00,#924B00,3,9
+Hydro,Hydro_ROR,#2a648a,#2a648a,6,12
+Hydro,Hydro_Storage,#2a648a,#2a648a,6,12
+Other,Biomass,#6ba661,#6a96ac,5,11
+Other,WHR,#6ba661,#6ba661,5,11
+Hydrogen,Hydrogen,teal,teal,11,4
+Battery,Battery,#e7c41f,#e7c41f,10,5
+Nuclear,Nuclear,#8d72b3,#8d72b3,4,10
+Pumped Storage,Hydro_Pumped,#6a96ac,#2a648a,9,6
+Solar,SolarPV_tilt,#ef9226,#ef9226,7,13
+Solar,SolarPV_single,#ef9226,#daac77,7,13
+Solar,SolarPV_roof,#ef9226,#daac77,7,13
+Wind,Offshore,#8dc0cd,#8dc0cd,8,14
+Wind,Wind,#8dc0cd,#8dc0cd,8,14
+Export,Export,#2cb4b4,#55A182,13,16
+Curtailment,Curtailment,#c94f39,#c94f39,15,15
+Transmission Losses,Tx_Losses,#656d4a,#656d4a,12,3
+Import,Import,#900C3F,#900C3F,14,2
+Shedding,Shedding,pink,pink,16,1

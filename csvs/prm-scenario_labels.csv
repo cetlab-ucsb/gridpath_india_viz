@@ -1,0 +1,5 @@
+zone,scenario,label,color,linestyle,linewidth,order,marker,path
+all,VREmid_STmid_CONVmid_H2_RES_0PRM_CC_50RPS_90CAP_500GW_PIERmid,No PRM,#92918b,dashed,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/prm
+all,VREmid_STmid_CONVmid_H2_RES_8PRM_CC_50RPS_90CAP_500GW_PIERmid,8% PRM - REF,#ca8250,solid,3,9,None,/Users/Guille/Desktop/india_power/scenarios/costs
+all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_90CAP_500GW_PIERmid,10% PRM,#2cb7b5,dotted,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/prm
+all,VREmid_STmid_CONVmid_H2_RES_15PRM_CC_50RPS_90CAP_500GW_PIERmid,15% PRM,#756a01,dashdot,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/prm

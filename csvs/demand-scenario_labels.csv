@@ -1,0 +1,7 @@
+zone,scenario,label,color,linestyle,linewidth,order,marker,path
+all,VREmid_STmid_CONVmid_H2_RES_8PRM_CC_50RPS_90CAP_500GW_ICEDlow,Linearly-scaled Demand (low),#92918b,solid,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/demand
+all,VREmid_STmid_CONVmid_H2_RES_8PRM_CC_50RPS_90CAP_500GW_ICEDmid,Linearly-scaled Demand (mid),#136564,dashed,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/demand
+all,VREmid_STmid_CONVmid_H2_RES_8PRM_CC_50RPS_90CAP_500GW_ICEDhigh,Linearly-scaled Demand (high),#2cb7b5,dotted,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/demand
+all,VREmid_STmid_CONVmid_H2_RES_8PRM_CC_50RPS_90CAP_500GW_PIERlow,Bottom-up Demand (low),#756a01,dashdot,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/demand
+all,VREmid_STmid_CONVmid_H2_RES_8PRM_CC_50RPS_90CAP_500GW_PIERmid,Bottom-up Demand (mid) - REF,#ca8250,solid,3,9,None,/Users/Guille/Desktop/india_power/scenarios/cost
+all,VREmid_STmid_CONVmid_H2_RES_8PRM_CC_50RPS_90CAP_500GW_PIERhigh,Bottom-up Demand (high),#d8a581,dashed,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/demand

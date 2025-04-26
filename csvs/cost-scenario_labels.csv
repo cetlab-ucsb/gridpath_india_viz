@@ -1,0 +1,7 @@
+zone,scenario,label,color,linestyle,linewidth,order,marker,path
+all,VRElow_STlow_CONVmid_H2_RES_8PRM_CC_50RPS_90CAP_500GW_PIERmid,VRE & ESS (low) Coal (low),#92918b,solid,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/cost
+all,VRElow_STlow_CONVhigh_H2_RES_8PRM_CC_50RPS_90CAP_500GW_PIERmid,VRE & ESS (low) Coal (high),#136564,dashed,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/cost
+all,VREmid_STmid_CONVmid_H2_RES_8PRM_CC_50RPS_90CAP_500GW_PIERmid,VRE & ESS (mid) Coal (low) - REF,#ca8250,solid,3,9,None,/Users/Guille/Desktop/india_power/scenarios/cost
+all,VREmid_STmid_CONVhigh_H2_RES_8PRM_CC_50RPS_90CAP_500GW_PIERmid,VRE & ESS (mid) Coal (high),#2cb7b5,dotted,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/cost
+all,VREhigh_SThigh_CONVmid_H2_RES_8PRM_CC_50RPS_90CAP_500GW_PIERmid,VRE & ESS (high) Coal (low),#756a01,dashdot,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/cost
+all,VREhigh_SThigh_CONVhigh_H2_RES_8PRM_CC_50RPS_90CAP_500GW_PIERmid,VRE & ESS (high) Coal (high),#d8a581,dashed,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/cost

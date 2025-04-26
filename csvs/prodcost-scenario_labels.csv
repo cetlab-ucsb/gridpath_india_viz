@@ -1,0 +1,4 @@
+zone,scenario,label,color,linestyle,linewidth,order,marker,path
+all,prodcost_2050_1prob_VREmid_STmid_CONVmid_CC_RES_0PRM_50RPS_90CAP_PIERmid,No PRM,#92918b,dashed,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/prodcost
+all,prodcost_2050_1prob_VREmid_STmid_CONVmid_CC_RES_8PRM_50RPS_90CAP_PIERmid,8% PRM - REF,#ca8250,solid,3,9,None,/Users/Guille/Desktop/india_power/scenarios/prodcost
+all,prodcost_2050_1prob_VREmid_STmid_CONVmid_CC_RES_10PRM_50RPS_90CAP_PIERmid,10% PRM,#2cb7b5,dotted,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/prodcost

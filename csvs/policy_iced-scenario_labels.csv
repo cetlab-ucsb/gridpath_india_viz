@@ -1,7 +1,0 @@
-zone,scenario,label,color,linestyle,linewidth,order,marker,path
-all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_ICEDmid,"No RPO,  Clean Target, or Carbon Target",#92918b,solid,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/policy
-all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_ICEDmid,No Clean Target or Carbon Target,#136564,dashed,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/policy
-all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_500GW_ICEDmid,No Carbon Target,#2cb7b5,dotted,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/policy
-all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_80CAP_500GW_ICEDmid,80% Carbon Target,#756a01,dashdot,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/policy
-all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_90CAP_500GW_ICEDmid,90% Carbon Target ,#ca8250,solid,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/policy
-all,VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_100CAP_500GW_ICEDmid,100% Carbon Target,#d8a581,dashed,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/policy
