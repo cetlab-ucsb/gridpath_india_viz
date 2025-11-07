@@ -1,0 +1,31 @@
+﻿study,capacity_mw,capacity_mwh,period,lw,color,ls
+"Lu et al., 2020",NA,NA,2030,1.5,#92918b,dashed
+"Rose et al., 2020",2000,8000,2030,1.5,#136564,dotted
+"Gulagi et al., 2022",NA,1237000,2030,1.5,#2cb7b5,dashdot
+"Barbar et al., 2023",0,0,2030,1.5,#756a01,solid
+"Rodrigues et al., 2023",4000,4000,2030,1.5,#d8a581,dashed
+"Jain et al., 2023",0,0,2030,1.5,#92918b,dotted
+"Bhattacharya et al., 2024",0,0,2030,1.5,#136564,dashdot
+"Abhyankar et al., 2023",70000,340000,2030,1.5,#2cb7b5,solid
+"Rudnick et al., 2022",NA,NA,2030,1.5,#756a01,dashed
+This study,154293,308586,2030,3,#ca8250,solid
+"Lu et al., 2020",220000,NA,2040,1.5,#92918b,dashed
+"Rose et al., 2020",275000,1100000,2040,1.5,#136564,dotted
+"Gulagi et al., 2022",NA,3551000,2040,1.5,#2cb7b5,dashdot
+"Barbar et al., 2023",200000,1200000,2040,1.5,#756a01,solid
+"Rodrigues et al., 2023",167400,1021140,2040,1.5,#d8a581,dashed
+"Jain et al., 2023",104030,134020,2040,1.5,#92918b,dotted
+"Bhattacharya et al., 2024",375000,1500000,2040,1.5,#136564,dashdot
+"Abhyankar et al., 2023",247000,1550000,2040,1.5,#2cb7b5,solid
+"Rudnick et al., 2022",485000,1940000,2040,1.5,#756a01,dashed
+This study,400566,801132,2040,3,#ca8250,solid
+"Lu et al., 2020",NA,NA,2050,1.5,#92918b,dashed
+"Rose et al., 2020",655000,2620000,2050,1.5,#136564,dotted
+"Gulagi et al., 2022",NA,7325000,2050,1.5,#2cb7b5,dashdot
+"Barbar et al., 2023",200000,1200000,2050,1.5,#756a01,solid
+"Rodrigues et al., 2023",864200,5185200,2050,1.5,#d8a581,dashed
+"Jain et al., 2023",NA,NA,2050,1.5,#92918b,dotted
+"Bhattacharya et al., 2024",1340000,5360000,2050,1.5,#136564,dashdot
+"Abhyankar et al., 2023",495000,3100000,2050,1.5,#2cb7b5,solid
+"Rudnick et al., 2022",NA,NA,2050,1.5,#756a01,dashed
+This study,649020,3409201,2050,3,#ca8250,solid

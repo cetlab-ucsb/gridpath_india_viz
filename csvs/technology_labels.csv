@@ -6,7 +6,7 @@ Gas,CCGT,#6c757d,#6c757d,2,8
 Gas,CT,#6c757d,#6c757d,2,8
 Diesel,Diesel,#924B00,#924B00,3,9
 Hydro,Hydro_ROR,#2a648a,#2a648a,6,12
-Hydro,Hydro_Storage,#2a648a,#2a648a,6,12
+Hydro,Hydro_Storage,#2a648a,lime,6,12
 Other,Biomass,#6ba661,#6a96ac,5,11
 Other,WHR,#6ba661,#6ba661,5,11
 Hydrogen,Hydrogen,teal,teal,11,4
