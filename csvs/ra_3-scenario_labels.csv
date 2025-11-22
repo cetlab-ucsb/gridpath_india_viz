@@ -1,0 +1,5 @@
+zone,scenario,label,color,linestyle,linewidth,order,marker,path
+all,RA2040_VREmid_STmid_CONVmid_H2_RES_8PRM_CC_50RPS_500GW_PIERmid,8% PRM & No CAP,#92918b,solid,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/ra
+all,RA2040_VREmid_STmid_CONVmid_H2_RES_8PRM_CC_50RPS_90LinCAP_500GW_PIERmid,8% PRM & 90%  CAP,#136564,dashed,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/ra
+all,RA2040_VREmid_STmid_CONVmid_H2_RES_12PRM_CC_50RPS_500GW_PIERmid,12% PRM & No CAP,#756a01,dotted,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/ra
+all,RA2040_VREmid_STmid_CONVmid_H2_RES_12PRM_CC_50RPS_90LinCAP_500GW_PIERmid,12% PRM & 90%  CAP,#2cb7b5,dashdot,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/ra
