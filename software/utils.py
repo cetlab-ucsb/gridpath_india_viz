@@ -521,39 +521,38 @@ def _load_cost(scen_labels_):
 
         new_['fixed_cost'] = new_['capacity_cost'] + new_['fixed_cost']
         
-        new_ = new_[['period', 
+        df_ = new_[['period', 
                      'transmission_line', 
                      'max_mw', 
-                     'fixed_cost']]
+                     'fixed_cost']].copy()
         
-        new_ = new_.rename(columns = {'max_mw': 'power_mw'})
+        df_ = df_.rename(columns = {'max_mw': 'power_mw'})
         
-        df_  = new_.groupby(['period', 
-                             'transmission_line']).sum().reset_index(drop = False)
+        # df_  = new_.groupby(['period', 
+        #                      'transmission_line']).sum().reset_index(drop = False)
         
-        project_ = project_.loc[project_['vintage'] == 2020].reset_index(drop = False)
+        # project_ = project_.loc[project_['vintage'] == 2020].reset_index(drop = False)
         
-        project_ = project_[['transmission_line', 
-                             'tx_annualized_real_cost_per_mw_yr']]
+        # project_ = project_[['transmission_line', 
+        #                      'tx_annualized_real_cost_per_mw_yr']]
         
 #         project_p_                      = project_.copy()
 #         project_p_['transmission_line'] = project_p_['transmission_line'].str.replace('_new', '')
 #         project_ = pd.concat([project_, project_p_], axis = 0).reset_index(drop = True)
 
-        df_                  = pd.merge(df_, project_, on = ['transmission_line'])
-        df_['capacity_cost'] = df_['tx_annualized_real_cost_per_mw_yr']*df_['power_mw']
-        df_['load_zone']     = df_['transmission_line'].apply(lambda x: x.split("-")[0])
+        # df_                  = pd.merge(df_, project_, on = ['transmission_line'])
+        # df_['capacity_cost'] = df_['tx_annualized_real_cost_per_mw_yr']*df_['power_mw']
+        
+        df_['load_zone'] = df_['transmission_line'].apply(lambda x: x.split("-")[0])
         
         df_ = df_[['period', 
                    'load_zone', 
-                   'capacity_cost', 
                    'fixed_cost']]
         
         df_ = df_.groupby(['period', 
-                           'load_zone']).agg({'capacity_cost': 'sum', 
-                                              'fixed_cost': 'sum'}).reset_index(drop = False)
+                           'load_zone']).agg({'fixed_cost': 'sum'}).reset_index(drop = False)
         
-        df_['fixed_cost'] = df_['capacity_cost'] + df_['fixed_cost']
+        #df_['fixed_cost'] = df_['capacity_cost'] + df_['fixed_cost']
         df_['variable_cost'] = 0.
         
         df_ = df_[['period', 
