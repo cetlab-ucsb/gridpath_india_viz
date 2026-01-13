@@ -1,0 +1,5 @@
+zone,scenario,label,color,linestyle,linewidth,order,marker,path
+all,VREmid_STmid_CONVmid_H2_RES_8PRM_CC_50RPS_90CAP_500GW_ICEDmid,Linearly-scaled Demand (mid) - ALT,#ca8250,solid,3,9,None,/Users/Guille/Desktop/india_power/scenarios/demand
+all,VREmid_STmid_CONVmid_H2_NoNewGas_RES_8PRM_CC_50RPS_90CAP_500GW_ICEDmid,No New Gas & ALT,#92918b,dashed,1.5,9,None,/Users/Guille/Desktop/india_power/scenarios/additional
+all,VREmid_STmid_CONVmid_H2_NoNewGas_NoCoalPipeline_RES_8PRM_CC_50RPS_90CAP_500GW_ICEDmid,No New Coal and Gas  & ALT,#136564,dotted,1.5,9,None,/Users/Guille/Desktop/india_power/scenarios/additional
+all,VREmid_STmid_CONVmid_H2_NoNewGas_NoCoalPipepile_NoNewCoal_RES_8PRM_CC_50RPS_90CAP_500GW_ICEDmid,No New Coal and Gas & No Pipeline Coal & ALT,#2cb7b5,dashdot,1.5,9,None,/Users/Guille/Desktop/india_power/scenarios/additional

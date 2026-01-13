@@ -1,6 +1,6 @@
 zone,scenario,label,color,linestyle,linewidth,order,marker,path
-all,VREmid_STmid_CONVmid_RES_8PRM_CC_50RPS_90CAP_500GW_PIERmid,No Alternative,#92918b,solid,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/alternative
-all,VREmid_STmid_CONVmid_H2_RES_8PRM_CC_50RPS_90CAP_500GW_PIERmid,Alternative (H2) - REF,#ca8250,solid,3,9,None,/Users/Guille/Desktop/india_power/scenarios/cost
-all,VREmid_STmid_CONVmid_PSH_RES_8PRM_CC_50RPS_90CAP_500GW_PIERmid,Alternative (PSH),#136564,dashed,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/alternative
-all,VREmid_STmid_CONVmid_N_RES_8PRM_CC_50RPS_90CAP_500GW_PIERmid,Alternative (nuclear),#2cb7b5,dotted,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/alternative
-all,VREmid_STmid_CONVmid_H2PSHN_RES_8PRM_CC_50RPS_90CAP_500GW_PIERmid,Alternative (all),#d8a581,dashed,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/alternative
+all,VREmid_STmid_CONVmid_RES_8PRM_CC_50RPS_90CAP_500GW_PIERmid,No H2 or high PSH or nuclear,#92918b,solid,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/alternative
+all,VREmid_STmid_CONVmid_H2_RES_8PRM_CC_50RPS_90CAP_500GW_PIERmid,Cost-optimal H2 - REF,#ca8250,solid,3,9,None,/Users/Guille/Desktop/india_power/scenarios/cost
+all,VREmid_STmid_CONVmid_PSH_RES_8PRM_CC_50RPS_90CAP_500GW_PIERmid,High PSH,#136564,dashed,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/alternative
+all,VREmid_STmid_CONVmid_N_RES_8PRM_CC_50RPS_90CAP_500GW_PIERmid,High nuclear,#2cb7b5,dotted,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/alternative
+all,VREmid_STmid_CONVmid_H2PSHN_RES_8PRM_CC_50RPS_90CAP_500GW_PIERmid,H2 & high PSH & nuclear,#d8a581,dashed,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/alternative
