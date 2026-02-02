@@ -1,5 +1,5 @@
 zone,scenario,label,color,linestyle,linewidth,order,marker,path
 all,VREmid_STmid_CONVmid_H2_RES_8PRM_CC_50RPS_90CAP_500GW_PIERmid,VRE & ESS (mid) Coal (low) & 90% Carbon Target - REF,#ca8250,solid,3,9,None,/Users/Guille/Desktop/india_power/scenarios/cost
-all,VREhigh_SThigh_CONVmid_H2_RES_8PRM_CC_50RPS_500GW_PIERmid,VRE & ESS (high) Coal (low) & No Carbon Target,#136564,dashed,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/additional
 all,VRElow_STlow_CONVmid_H2_RES_8PRM_CC_50RPS_500GW_PIERmid,VRE & ESS (low) Coal (low) & No Carbon Target,#2cb7b5,dotted,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/additional
 all,VREmid_STmid_CONVmid_H2_RES_8PRM_CC_50RPS_500GW_PIERmid,VRE & ESS (mid) Coal (low) & No Carbon Target,#756a01,dashed,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/pier
+all,VREhigh_SThigh_CONVhigh_H2_RES_8PRM_CC_50RPS_500GW_PIERmid,VRE & ESS (high) Coal (high) & No Carbon Target,#136564,dashed,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/additional
