@@ -7,6 +7,8 @@ This repository contains Python plotting functionality designed to support visua
 > *CEM = Capacity Expansion Model*  
 > *PCM = Production Cost Model*
 
-
 ##  Repository Structure
 
+`data/`: Holds reference (lookup tables ) and spatial (shapefiles for Indian states) data that do not change across scenarios.
+
+`csvs/`: Path to scenario result outputs from GridPath-India. Technology colors and groups (`technology_labels.csv`).
