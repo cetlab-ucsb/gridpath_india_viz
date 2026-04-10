@@ -563,8 +563,8 @@ def _plot_total_cost(ax, df_, scen_labels_,
     ax.set_title(title, fontsize = 22, 
                         y        = 0.9125)
 
-# Plot levelized cost of electricity for different scenarios
-def _plot_levelized_cost(ax, df_1_, df_2_, scen_labels_, 
+# Plot average cost of electricity for different scenarios
+def _plot_average_cost(ax, df_1_, df_2_, scen_labels_, 
                          USD_to_INR   = 72,
                          legend       = False,
                          title        = '', 
@@ -605,7 +605,7 @@ def _plot_levelized_cost(ax, df_1_, df_2_, scen_labels_,
     ax.yaxis.set_tick_params(labelsize = 18)
     axp.yaxis.set_tick_params(labelsize = 18)
 
-    ax.set_ylabel(r'Costs (USD per MWh)', fontsize = 20)
+    ax.set_ylabel(r'Average Costs (USD per MWh)', fontsize = 20)
     axp.set_ylabel(r'(INR per kWh)', fontsize = 20)
 
     #axp.yaxis.set_major_formatter(mpl.ticker.StrMethodFormatter('{x:,.0f}'))
