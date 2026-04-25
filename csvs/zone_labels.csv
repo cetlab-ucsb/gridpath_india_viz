@@ -1,0 +1,8 @@
+scenario,load_zone,period
+VREmid_STmid_CONVmid_H2_RES_10PRM_CC_50RPS_90CAP_500GW_PIERmid,Maharashtra,2020
+VREmid_STmid_CONVhigh_H2_RES_10PRM_CC_50RPS_90CAP_500GW_PIERmid,Gujarat,2030
+VREhigh_SThigh_CONVmid_H2_RES_10PRM_CC_50RPS_90CAP_500GW_PIERmid,Uttar_Pradesh,2040
+VREhigh_SThigh_CONVhigh_H2_RES_10PRM_CC_50RPS_90CAP_500GW_PIERmid,Tamil_Nadu,2050
+,Odisha,
+,Karnataka,
+,Haryana,

@@ -1,0 +1,25 @@
+group,technology,group_color,color,order,order_v2
+Coal,Subcritical_Coal_Large,#343a40,#343a40,1,7
+Coal,Subcritical_Coal_Small,#343a40,#343a40,1,7
+Coal,Supercritical_Coal,#343a40,#343a40,1,7
+Gas,CCGT,#6c757d,#6c757d,2,8
+Gas,CT,#6c757d,#6c757d,2,8
+Diesel,Diesel,#924B00,#924B00,3,9
+Nuclear,Nuclear,#8d72b3,#8d72b3,4,10
+Other,Biomass,#6ba661,#6a96ac,5,11
+Other,WHR,#6ba661,#6ba661,5,11
+Hydro,Hydro_ROR,#2a648a,#2a648a,6,12
+Hydro,Hydro_Storage,#2a648a,lime,6,12
+Solar,SolarPV_tilt,#ef9226,#ef9226,7,13
+Solar,SolarPV_single,#ef9226,#daac77,7,13
+Solar,SolarPV_roof,#ef9226,#daac77,7,13
+Wind,Offshore,#8dc0cd,#8dc0cd,8,14
+Wind,Wind,#8dc0cd,#8dc0cd,8,14
+Pumped Storage,Hydro_Pumped,#6a96ac,#2a648a,9,6
+Battery,Battery,#e7c41f,#e7c41f,10,5
+Hydrogen,Hydrogen,teal,teal,11,4
+Import,Import,#2cb4b4,#55A182,14,15
+Shedding,Shedding,#c94f39,#c94f39,16,16
+Transmission Losses,Tx_Losses,#656d4a,#656d4a,12,3
+Export,Export,#656d4a,#656d4a,13,2
+Curtailment,Curtailment,#900C3F,#900C3F,15,1

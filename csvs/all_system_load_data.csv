@@ -1,0 +1,1028 @@
+0
+"                                      scenario_name  weather_iteration  \
+0       capex_pier_prm_108_cc_90_hardovergen_2040_1                  1   
+1       capex_pier_prm_108_cc_90_hardovergen_2040_1                  1   
+2       capex_pier_prm_108_cc_90_hardovergen_2040_1                  1   
+3       capex_pier_prm_108_cc_90_hardovergen_2040_1                  1   
+4       capex_pier_prm_108_cc_90_hardovergen_2040_1                  1   
+...                                             ...                ...   
+306595  capex_pier_prm_108_cc_90_hardovergen_2040_1                  1   
+306596  capex_pier_prm_108_cc_90_hardovergen_2040_1                  1   
+306597  capex_pier_prm_108_cc_90_hardovergen_2040_1                  1   
+306598  capex_pier_prm_108_cc_90_hardovergen_2040_1                  1   
+306599  capex_pier_prm_108_cc_90_hardovergen_2040_1                  1   
+
+        hydro_iteration  availability_iteration       load_zone   timepoint  \
+0                     1                       1  Andhra_Pradesh  2040040101   
+1                     1                       1  Andhra_Pradesh  2040040102   
+2                     1                       1  Andhra_Pradesh  2040040103   
+3                     1                       1  Andhra_Pradesh  2040040104   
+4                     1                       1  Andhra_Pradesh  2040040105   
+...                 ...                     ...             ...         ...   
+306595                1                       1     West_Bengal  2041033120   
+306596                1                       1     West_Bengal  2041033121   
+306597                1                       1     West_Bengal  2041033122   
+306598                1                       1     West_Bengal  2041033123   
+306599                1                       1     West_Bengal  2041033124   
+
+        period  discount_factor  number_years_represented  timepoint_weight  \
+0         2040         0.258419                      10.0               1.0   
+1         2040         0.258419                      10.0               1.0   
+2         2040         0.258419                      10.0               1.0   
+3         2040         0.258419                      10.0               1.0   
+4         2040         0.258419                      10.0               1.0   
+...        ...              ...                       ...               ...   
+306595    2040         0.258419                      10.0               1.0   
+306596    2040         0.258419                      10.0               1.0   
+306597    2040         0.258419                      10.0               1.0   
+306598    2040         0.258419                      10.0               1.0   
+306599    2040         0.258419                      10.0               1.0   
+
+        number_of_hours_in_timepoint  static_load_mw  total_power_mw  \
+0                                  1    20069.969633    27955.494192   
+1                                  1    19075.324024    25717.821133   
+2                                  1    18598.166094    24072.311204   
+3                                  1    18456.657681    21900.976310   
+4                                  1    17868.555098    21030.388101   
+...                              ...             ...             ...   
+306595                             1    23531.094190    21404.311377   
+306596                             1    21768.407754    18104.242540   
+306597                             1    20150.020787    10120.346995   
+306598                             1    20065.304542    10120.346995   
+306599                             1    19166.517908    10120.346995   
+
+        net_imports_mw  overgeneration_mw  unserved_energy_mw  \
+0         -7885.524559                0.0                 0.0   
+1         -6642.497109                0.0                 0.0   
+2         -5474.145110                0.0                 0.0   
+3         -3444.318629                0.0                 0.0   
+4         -3161.833004                0.0                 0.0   
+...                ...                ...                 ...   
+306595     2126.782813                0.0                 0.0   
+306596     3664.165214                0.0                 0.0   
+306597    10029.673793                0.0                 0.0   
+306598     9944.957547                0.0                 0.0   
+306599     9046.170913                0.0                 0.0   
+
+        load_balance_dual  load_balance_marginal_cost_per_mw  
+0              -87.991528                         -34.049945  
+1              -87.991528                         -34.049945  
+2              -87.991528                         -34.049945  
+3              -87.991528                         -34.049945  
+4              -93.046780                         -36.006168  
+...                   ...                                ...  
+306595        -129.565362                         -50.137707  
+306596        -126.855382                         -49.089030  
+306597        -118.306334                         -45.780818  
+306598        -115.785453                         -44.805317  
+306599        -115.785453                         -44.805317  
+
+[306600 rows x 18 columns]"
+"                                      scenario_name  weather_iteration  \
+0       capex_pier_prm_108_cc_90_hardovergen_2040_2                  2   
+1       capex_pier_prm_108_cc_90_hardovergen_2040_2                  2   
+2       capex_pier_prm_108_cc_90_hardovergen_2040_2                  2   
+3       capex_pier_prm_108_cc_90_hardovergen_2040_2                  2   
+4       capex_pier_prm_108_cc_90_hardovergen_2040_2                  2   
+...                                             ...                ...   
+306595  capex_pier_prm_108_cc_90_hardovergen_2040_2                  2   
+306596  capex_pier_prm_108_cc_90_hardovergen_2040_2                  2   
+306597  capex_pier_prm_108_cc_90_hardovergen_2040_2                  2   
+306598  capex_pier_prm_108_cc_90_hardovergen_2040_2                  2   
+306599  capex_pier_prm_108_cc_90_hardovergen_2040_2                  2   
+
+        hydro_iteration  availability_iteration       load_zone   timepoint  \
+0                     2                       2  Andhra_Pradesh  2040040101   
+1                     2                       2  Andhra_Pradesh  2040040102   
+2                     2                       2  Andhra_Pradesh  2040040103   
+3                     2                       2  Andhra_Pradesh  2040040104   
+4                     2                       2  Andhra_Pradesh  2040040105   
+...                 ...                     ...             ...         ...   
+306595                2                       2     West_Bengal  2041033120   
+306596                2                       2     West_Bengal  2041033121   
+306597                2                       2     West_Bengal  2041033122   
+306598                2                       2     West_Bengal  2041033123   
+306599                2                       2     West_Bengal  2041033124   
+
+        period  discount_factor  number_years_represented  timepoint_weight  \
+0         2040         0.258419                      10.0               1.0   
+1         2040         0.258419                      10.0               1.0   
+2         2040         0.258419                      10.0               1.0   
+3         2040         0.258419                      10.0               1.0   
+4         2040         0.258419                      10.0               1.0   
+...        ...              ...                       ...               ...   
+306595    2040         0.258419                      10.0               1.0   
+306596    2040         0.258419                      10.0               1.0   
+306597    2040         0.258419                      10.0               1.0   
+306598    2040         0.258419                      10.0               1.0   
+306599    2040         0.258419                      10.0               1.0   
+
+        number_of_hours_in_timepoint  static_load_mw  total_power_mw  \
+0                                  1    19209.730483    15420.790396   
+1                                  1    18457.166459    14147.745897   
+2                                  1    18478.672257    12241.855911   
+3                                  1    18427.849259    12757.108679   
+4                                  1    18324.721662    11641.111863   
+...                              ...             ...             ...   
+306595                             1    16473.390465    24615.409804   
+306596                             1    14846.013888    15798.168906   
+306597                             1    13820.200001    11061.534898   
+306598                             1    14321.145379    10475.977053   
+306599                             1    14267.985909    10475.977053   
+
+        net_imports_mw  overgeneration_mw  unserved_energy_mw  \
+0          3788.940087                0.0                 0.0   
+1          4309.420562                0.0                 0.0   
+2          6236.816346                0.0                 0.0   
+3          5670.740581                0.0                 0.0   
+4          6683.609798                0.0                 0.0   
+...                ...                ...                 ...   
+306595    -8142.019339                0.0                 0.0   
+306596     -952.155017                0.0                 0.0   
+306597     2758.665103                0.0                 0.0   
+306598     3845.168325                0.0                 0.0   
+306599     3792.008856                0.0                 0.0   
+
+        load_balance_dual  load_balance_marginal_cost_per_mw  
+0             -107.095730                         -41.442668  
+1             -107.095730                         -41.442668  
+2             -107.095730                         -41.442668  
+3             -107.095730                         -41.442668  
+4             -104.904547                         -40.594749  
+...                   ...                                ...  
+306595        -113.742745                         -44.014853  
+306596        -113.742745                         -44.014853  
+306597        -103.699626                         -40.128483  
+306598         -99.348623                         -38.444782  
+306599         -98.944281                         -38.288315  
+
+[306600 rows x 18 columns]"
+"                                      scenario_name  weather_iteration  \
+0       capex_pier_prm_108_cc_90_hardovergen_2040_3                  3   
+1       capex_pier_prm_108_cc_90_hardovergen_2040_3                  3   
+2       capex_pier_prm_108_cc_90_hardovergen_2040_3                  3   
+3       capex_pier_prm_108_cc_90_hardovergen_2040_3                  3   
+4       capex_pier_prm_108_cc_90_hardovergen_2040_3                  3   
+...                                             ...                ...   
+306595  capex_pier_prm_108_cc_90_hardovergen_2040_3                  3   
+306596  capex_pier_prm_108_cc_90_hardovergen_2040_3                  3   
+306597  capex_pier_prm_108_cc_90_hardovergen_2040_3                  3   
+306598  capex_pier_prm_108_cc_90_hardovergen_2040_3                  3   
+306599  capex_pier_prm_108_cc_90_hardovergen_2040_3                  3   
+
+        hydro_iteration  availability_iteration       load_zone   timepoint  \
+0                     3                       3  Andhra_Pradesh  2040040101   
+1                     3                       3  Andhra_Pradesh  2040040102   
+2                     3                       3  Andhra_Pradesh  2040040103   
+3                     3                       3  Andhra_Pradesh  2040040104   
+4                     3                       3  Andhra_Pradesh  2040040105   
+...                 ...                     ...             ...         ...   
+306595                3                       3     West_Bengal  2041033120   
+306596                3                       3     West_Bengal  2041033121   
+306597                3                       3     West_Bengal  2041033122   
+306598                3                       3     West_Bengal  2041033123   
+306599                3                       3     West_Bengal  2041033124   
+
+        period  discount_factor  number_years_represented  timepoint_weight  \
+0         2040         0.258419                      10.0               1.0   
+1         2040         0.258419                      10.0               1.0   
+2         2040         0.258419                      10.0               1.0   
+3         2040         0.258419                      10.0               1.0   
+4         2040         0.258419                      10.0               1.0   
+...        ...              ...                       ...               ...   
+306595    2040         0.258419                      10.0               1.0   
+306596    2040         0.258419                      10.0               1.0   
+306597    2040         0.258419                      10.0               1.0   
+306598    2040         0.258419                      10.0               1.0   
+306599    2040         0.258419                      10.0               1.0   
+
+        number_of_hours_in_timepoint  static_load_mw  total_power_mw  \
+0                                  1    18371.181943    21229.841482   
+1                                  1    17784.468062    19904.733935   
+2                                  1    17440.865006    18110.434150   
+3                                  1    17277.212110    17218.192505   
+4                                  1    16932.525508    18923.085221   
+...                              ...             ...             ...   
+306595                             1    21654.472376    24578.914937   
+306596                             1    19419.132888    20626.051231   
+306597                             1    18521.240014     9588.231376   
+306598                             1    18234.640195     9588.231376   
+306599                             1    18002.686060     9588.231376   
+
+        net_imports_mw  overgeneration_mw  unserved_energy_mw  \
+0         -2858.659538                0.0                 0.0   
+1         -2120.265873                0.0                 0.0   
+2          -669.569144                0.0                 0.0   
+3            59.019605                0.0                 0.0   
+4         -1990.559714                0.0                 0.0   
+...                ...                ...                 ...   
+306595    -2924.442562                0.0                 0.0   
+306596    -1206.918343                0.0                 0.0   
+306597     8933.008638                0.0                 0.0   
+306598     8646.408819                0.0                 0.0   
+306599     8414.454683                0.0                 0.0   
+
+        load_balance_dual  load_balance_marginal_cost_per_mw  
+0              -98.208659                         -38.003652  
+1              -98.208659                         -38.003652  
+2              -98.208659                         -38.003652  
+3              -98.208659                         -38.003652  
+4             -101.442586                         -39.255080  
+...                   ...                                ...  
+306595        -104.909785                         -40.596776  
+306596        -101.525373                         -39.287116  
+306597        -101.525373                         -39.287116  
+306598         -97.544674                         -37.746711  
+306599         -98.531377                         -38.128534  
+
+[306600 rows x 18 columns]"
+"                                      scenario_name  weather_iteration  \
+0       capex_pier_prm_108_cc_90_hardovergen_2040_4                  4   
+1       capex_pier_prm_108_cc_90_hardovergen_2040_4                  4   
+2       capex_pier_prm_108_cc_90_hardovergen_2040_4                  4   
+3       capex_pier_prm_108_cc_90_hardovergen_2040_4                  4   
+4       capex_pier_prm_108_cc_90_hardovergen_2040_4                  4   
+...                                             ...                ...   
+306595  capex_pier_prm_108_cc_90_hardovergen_2040_4                  4   
+306596  capex_pier_prm_108_cc_90_hardovergen_2040_4                  4   
+306597  capex_pier_prm_108_cc_90_hardovergen_2040_4                  4   
+306598  capex_pier_prm_108_cc_90_hardovergen_2040_4                  4   
+306599  capex_pier_prm_108_cc_90_hardovergen_2040_4                  4   
+
+        hydro_iteration  availability_iteration       load_zone   timepoint  \
+0                     4                       4  Andhra_Pradesh  2040040101   
+1                     4                       4  Andhra_Pradesh  2040040102   
+2                     4                       4  Andhra_Pradesh  2040040103   
+3                     4                       4  Andhra_Pradesh  2040040104   
+4                     4                       4  Andhra_Pradesh  2040040105   
+...                 ...                     ...             ...         ...   
+306595                4                       4     West_Bengal  2041033120   
+306596                4                       4     West_Bengal  2041033121   
+306597                4                       4     West_Bengal  2041033122   
+306598                4                       4     West_Bengal  2041033123   
+306599                4                       4     West_Bengal  2041033124   
+
+        period  discount_factor  number_years_represented  timepoint_weight  \
+0         2040         0.258419                      10.0               1.0   
+1         2040         0.258419                      10.0               1.0   
+2         2040         0.258419                      10.0               1.0   
+3         2040         0.258419                      10.0               1.0   
+4         2040         0.258419                      10.0               1.0   
+...        ...              ...                       ...               ...   
+306595    2040         0.258419                      10.0               1.0   
+306596    2040         0.258419                      10.0               1.0   
+306597    2040         0.258419                      10.0               1.0   
+306598    2040         0.258419                      10.0               1.0   
+306599    2040         0.258419                      10.0               1.0   
+
+        number_of_hours_in_timepoint  static_load_mw  total_power_mw  \
+0                                  1    19743.000186    18529.034173   
+1                                  1    18650.435567    17561.372752   
+2                                  1    18412.523494    19461.646771   
+3                                  1    18270.564195    19382.551951   
+4                                  1    18057.495926    18567.442572   
+...                              ...             ...             ...   
+306595                             1    23770.810178    21279.352547   
+306596                             1    21801.536297    21252.338477   
+306597                             1    20289.003517    14782.525624   
+306598                             1    21089.037917     9233.808042   
+306599                             1    20590.729295     9233.808042   
+
+        net_imports_mw  overgeneration_mw  unserved_energy_mw  \
+0          1213.966013                0.0                 0.0   
+1          1089.062815                0.0                 0.0   
+2         -1049.123277                0.0                 0.0   
+3         -1111.987756                0.0                 0.0   
+4          -509.946646                0.0                 0.0   
+...                ...                ...                 ...   
+306595     2491.457631                0.0                 0.0   
+306596      549.197819                0.0                 0.0   
+306597     5506.477892                0.0                 0.0   
+306598    11855.229875                0.0                 0.0   
+306599    11356.921253                0.0                 0.0   
+
+        load_balance_dual  load_balance_marginal_cost_per_mw  
+0              -88.170009                         -34.119011  
+1              -88.076532                         -34.082839  
+2              -87.214205                         -33.749145  
+3              -87.214205                         -33.749145  
+4              -88.170009                         -34.119011  
+...                   ...                                ...  
+306595        -113.834513                         -44.050365  
+306596        -112.574754                         -43.562877  
+306597        -112.574754                         -43.562877  
+306598        -108.517960                         -41.993026  
+306599        -104.074025                         -40.273364  
+
+[306600 rows x 18 columns]"
+"                                      scenario_name  weather_iteration  \
+0       capex_pier_prm_108_cc_90_hardovergen_2040_5                  5   
+1       capex_pier_prm_108_cc_90_hardovergen_2040_5                  5   
+2       capex_pier_prm_108_cc_90_hardovergen_2040_5                  5   
+3       capex_pier_prm_108_cc_90_hardovergen_2040_5                  5   
+4       capex_pier_prm_108_cc_90_hardovergen_2040_5                  5   
+...                                             ...                ...   
+306595  capex_pier_prm_108_cc_90_hardovergen_2040_5                  5   
+306596  capex_pier_prm_108_cc_90_hardovergen_2040_5                  5   
+306597  capex_pier_prm_108_cc_90_hardovergen_2040_5                  5   
+306598  capex_pier_prm_108_cc_90_hardovergen_2040_5                  5   
+306599  capex_pier_prm_108_cc_90_hardovergen_2040_5                  5   
+
+        hydro_iteration  availability_iteration       load_zone   timepoint  \
+0                     5                       5  Andhra_Pradesh  2040040101   
+1                     5                       5  Andhra_Pradesh  2040040102   
+2                     5                       5  Andhra_Pradesh  2040040103   
+3                     5                       5  Andhra_Pradesh  2040040104   
+4                     5                       5  Andhra_Pradesh  2040040105   
+...                 ...                     ...             ...         ...   
+306595                5                       5     West_Bengal  2041033120   
+306596                5                       5     West_Bengal  2041033121   
+306597                5                       5     West_Bengal  2041033122   
+306598                5                       5     West_Bengal  2041033123   
+306599                5                       5     West_Bengal  2041033124   
+
+        period  discount_factor  number_years_represented  timepoint_weight  \
+0         2040         0.258419                      10.0               1.0   
+1         2040         0.258419                      10.0               1.0   
+2         2040         0.258419                      10.0               1.0   
+3         2040         0.258419                      10.0               1.0   
+4         2040         0.258419                      10.0               1.0   
+...        ...              ...                       ...               ...   
+306595    2040         0.258419                      10.0               1.0   
+306596    2040         0.258419                      10.0               1.0   
+306597    2040         0.258419                      10.0               1.0   
+306598    2040         0.258419                      10.0               1.0   
+306599    2040         0.258419                      10.0               1.0   
+
+        number_of_hours_in_timepoint  static_load_mw  total_power_mw  \
+0                                  1    18925.352498    27112.798097   
+1                                  1    18529.612845    22597.142841   
+2                                  1    18264.274033    23570.644280   
+3                                  1    18145.236593    18511.273068   
+4                                  1    17658.908672    20251.449455   
+...                              ...             ...             ...   
+306595                             1    24254.760302    24866.323170   
+306596                             1    22089.436440    18273.192272   
+306597                             1    20556.137463    11364.597480   
+306598                             1    20609.227402    11364.597480   
+306599                             1    20420.378622    11324.597480   
+
+        net_imports_mw  overgeneration_mw  unserved_energy_mw  \
+0         -8187.445599                0.0                 0.0   
+1         -4067.529996                0.0                 0.0   
+2         -5306.370248                0.0                 0.0   
+3          -366.036475                0.0                 0.0   
+4         -2592.540783                0.0                 0.0   
+...                ...                ...                 ...   
+306595     -611.562868                0.0                 0.0   
+306596     3816.244168                0.0                 0.0   
+306597     9191.539983                0.0                 0.0   
+306598     9244.629922                0.0                 0.0   
+306599     9095.781142                0.0                 0.0   
+
+        load_balance_dual  load_balance_marginal_cost_per_mw  
+0              -91.010895                         -35.218344  
+1              -91.010895                         -35.218344  
+2              -91.010895                         -35.218344  
+3              -91.010895                         -35.218344  
+4              -91.010895                         -35.218344  
+...                   ...                                ...  
+306595        -125.734673                         -48.655351  
+306596        -125.321454                         -48.495448  
+306597        -121.214644                         -46.906242  
+306598        -113.787936                         -44.032341  
+306599        -113.329813                         -43.855062  
+
+[306600 rows x 18 columns]"
+"                                      scenario_name  weather_iteration  \
+0       capex_pier_prm_108_cc_90_hardovergen_2040_6                  6   
+1       capex_pier_prm_108_cc_90_hardovergen_2040_6                  6   
+2       capex_pier_prm_108_cc_90_hardovergen_2040_6                  6   
+3       capex_pier_prm_108_cc_90_hardovergen_2040_6                  6   
+4       capex_pier_prm_108_cc_90_hardovergen_2040_6                  6   
+...                                             ...                ...   
+306595  capex_pier_prm_108_cc_90_hardovergen_2040_6                  6   
+306596  capex_pier_prm_108_cc_90_hardovergen_2040_6                  6   
+306597  capex_pier_prm_108_cc_90_hardovergen_2040_6                  6   
+306598  capex_pier_prm_108_cc_90_hardovergen_2040_6                  6   
+306599  capex_pier_prm_108_cc_90_hardovergen_2040_6                  6   
+
+        hydro_iteration  availability_iteration       load_zone   timepoint  \
+0                     6                       6  Andhra_Pradesh  2040040101   
+1                     6                       6  Andhra_Pradesh  2040040102   
+2                     6                       6  Andhra_Pradesh  2040040103   
+3                     6                       6  Andhra_Pradesh  2040040104   
+4                     6                       6  Andhra_Pradesh  2040040105   
+...                 ...                     ...             ...         ...   
+306595                6                       6     West_Bengal  2041033120   
+306596                6                       6     West_Bengal  2041033121   
+306597                6                       6     West_Bengal  2041033122   
+306598                6                       6     West_Bengal  2041033123   
+306599                6                       6     West_Bengal  2041033124   
+
+        period  discount_factor  number_years_represented  timepoint_weight  \
+0         2040         0.258419                      10.0               1.0   
+1         2040         0.258419                      10.0               1.0   
+2         2040         0.258419                      10.0               1.0   
+3         2040         0.258419                      10.0               1.0   
+4         2040         0.258419                      10.0               1.0   
+...        ...              ...                       ...               ...   
+306595    2040         0.258419                      10.0               1.0   
+306596    2040         0.258419                      10.0               1.0   
+306597    2040         0.258419                      10.0               1.0   
+306598    2040         0.258419                      10.0               1.0   
+306599    2040         0.258419                      10.0               1.0   
+
+        number_of_hours_in_timepoint  static_load_mw  total_power_mw  \
+0                                  1    19117.085808    13533.171768   
+1                                  1    18291.359216    12600.949402   
+2                                  1    18067.802515    14644.648855   
+3                                  1    17874.564599    16207.077719   
+4                                  1    17528.258238    17749.168667   
+...                              ...             ...             ...   
+306595                             1    22132.356125    25125.816729   
+306596                             1    18872.824098    17924.979116   
+306597                             1    17232.856461    14115.490348   
+306598                             1    15969.053412    10558.293561   
+306599                             1    15584.444952    10699.711903   
+
+        net_imports_mw  overgeneration_mw  unserved_energy_mw  \
+0          5583.914040                0.0                 0.0   
+1          5690.409813                0.0                 0.0   
+2          3423.153660                0.0                 0.0   
+3          1667.486880                0.0                 0.0   
+4          -220.910429                0.0                 0.0   
+...                ...                ...                 ...   
+306595    -2993.460604                0.0                 0.0   
+306596      947.844983                0.0                 0.0   
+306597     3117.366113                0.0                 0.0   
+306598     5410.759851                0.0                 0.0   
+306599     4884.733049                0.0                 0.0   
+
+        load_balance_dual  load_balance_marginal_cost_per_mw  
+0              -99.024154                         -38.319223  
+1              -98.609820                         -38.158889  
+2             -100.783411                         -39.000000  
+3             -105.137390                         -40.684853  
+4             -105.433236                         -40.799336  
+...                   ...                                ...  
+306595         -99.162229                         -38.372654  
+306596         -99.078490                         -38.340249  
+306597         -99.078490                         -38.340249  
+306598         -99.078490                         -38.340249  
+306599         -99.078490                         -38.340249  
+
+[306600 rows x 18 columns]"
+"                                      scenario_name  weather_iteration  \
+0       capex_pier_prm_108_cc_90_hardovergen_2040_7                  7   
+1       capex_pier_prm_108_cc_90_hardovergen_2040_7                  7   
+2       capex_pier_prm_108_cc_90_hardovergen_2040_7                  7   
+3       capex_pier_prm_108_cc_90_hardovergen_2040_7                  7   
+4       capex_pier_prm_108_cc_90_hardovergen_2040_7                  7   
+...                                             ...                ...   
+306595  capex_pier_prm_108_cc_90_hardovergen_2040_7                  7   
+306596  capex_pier_prm_108_cc_90_hardovergen_2040_7                  7   
+306597  capex_pier_prm_108_cc_90_hardovergen_2040_7                  7   
+306598  capex_pier_prm_108_cc_90_hardovergen_2040_7                  7   
+306599  capex_pier_prm_108_cc_90_hardovergen_2040_7                  7   
+
+        hydro_iteration  availability_iteration       load_zone   timepoint  \
+0                     7                       7  Andhra_Pradesh  2040040101   
+1                     7                       7  Andhra_Pradesh  2040040102   
+2                     7                       7  Andhra_Pradesh  2040040103   
+3                     7                       7  Andhra_Pradesh  2040040104   
+4                     7                       7  Andhra_Pradesh  2040040105   
+...                 ...                     ...             ...         ...   
+306595                7                       7     West_Bengal  2041033120   
+306596                7                       7     West_Bengal  2041033121   
+306597                7                       7     West_Bengal  2041033122   
+306598                7                       7     West_Bengal  2041033123   
+306599                7                       7     West_Bengal  2041033124   
+
+        period  discount_factor  number_years_represented  timepoint_weight  \
+0         2040         0.258419                      10.0               1.0   
+1         2040         0.258419                      10.0               1.0   
+2         2040         0.258419                      10.0               1.0   
+3         2040         0.258419                      10.0               1.0   
+4         2040         0.258419                      10.0               1.0   
+...        ...              ...                       ...               ...   
+306595    2040         0.258419                      10.0               1.0   
+306596    2040         0.258419                      10.0               1.0   
+306597    2040         0.258419                      10.0               1.0   
+306598    2040         0.258419                      10.0               1.0   
+306599    2040         0.258419                      10.0               1.0   
+
+        number_of_hours_in_timepoint  static_load_mw  total_power_mw  \
+0                                  1    19398.208976    27805.473885   
+1                                  1    18550.674329    22211.481262   
+2                                  1    18342.281686    22406.501409   
+3                                  1    18155.047428    15266.389985   
+4                                  1    17858.406606    14353.004941   
+...                              ...             ...             ...   
+306595                             1    22683.035159    21687.243741   
+306596                             1    20609.582495     8096.936857   
+306597                             1    19569.167122     8046.936857   
+306598                             1    18637.056494     7623.559720   
+306599                             1    18703.457426     7623.559720   
+
+        net_imports_mw  overgeneration_mw  unserved_energy_mw  \
+0         -8407.264909                0.0                 0.0   
+1         -3660.806933                0.0                 0.0   
+2         -4064.219724                0.0                 0.0   
+3          2888.657443                0.0                 0.0   
+4          3505.401665                0.0                 0.0   
+...                ...                ...                 ...   
+306595      995.791417                0.0                 0.0   
+306596    12512.645638                0.0                 0.0   
+306597    11522.230265                0.0                 0.0   
+306598    11013.496774                0.0                 0.0   
+306599    11079.897706                0.0                 0.0   
+
+        load_balance_dual  load_balance_marginal_cost_per_mw  
+0             -100.783411                         -39.000000  
+1             -100.783411                         -39.000000  
+2             -100.783411                         -39.000000  
+3             -100.783411                         -39.000000  
+4             -103.323254                         -39.982839  
+...                   ...                                ...  
+306595        -118.680709                         -45.925689  
+306596        -117.336316                         -45.405452  
+306597        -106.941987                         -41.383174  
+306598        -103.287942                         -39.969174  
+306599        -103.287942                         -39.969174  
+
+[306600 rows x 18 columns]"
+"                                      scenario_name  weather_iteration  \
+0       capex_pier_prm_108_cc_90_hardovergen_2040_8                  8   
+1       capex_pier_prm_108_cc_90_hardovergen_2040_8                  8   
+2       capex_pier_prm_108_cc_90_hardovergen_2040_8                  8   
+3       capex_pier_prm_108_cc_90_hardovergen_2040_8                  8   
+4       capex_pier_prm_108_cc_90_hardovergen_2040_8                  8   
+...                                             ...                ...   
+306595  capex_pier_prm_108_cc_90_hardovergen_2040_8                  8   
+306596  capex_pier_prm_108_cc_90_hardovergen_2040_8                  8   
+306597  capex_pier_prm_108_cc_90_hardovergen_2040_8                  8   
+306598  capex_pier_prm_108_cc_90_hardovergen_2040_8                  8   
+306599  capex_pier_prm_108_cc_90_hardovergen_2040_8                  8   
+
+        hydro_iteration  availability_iteration       load_zone   timepoint  \
+0                     8                       8  Andhra_Pradesh  2040040101   
+1                     8                       8  Andhra_Pradesh  2040040102   
+2                     8                       8  Andhra_Pradesh  2040040103   
+3                     8                       8  Andhra_Pradesh  2040040104   
+4                     8                       8  Andhra_Pradesh  2040040105   
+...                 ...                     ...             ...         ...   
+306595                8                       8     West_Bengal  2041033120   
+306596                8                       8     West_Bengal  2041033121   
+306597                8                       8     West_Bengal  2041033122   
+306598                8                       8     West_Bengal  2041033123   
+306599                8                       8     West_Bengal  2041033124   
+
+        period  discount_factor  number_years_represented  timepoint_weight  \
+0         2040         0.258419                      10.0               1.0   
+1         2040         0.258419                      10.0               1.0   
+2         2040         0.258419                      10.0               1.0   
+3         2040         0.258419                      10.0               1.0   
+4         2040         0.258419                      10.0               1.0   
+...        ...              ...                       ...               ...   
+306595    2040         0.258419                      10.0               1.0   
+306596    2040         0.258419                      10.0               1.0   
+306597    2040         0.258419                      10.0               1.0   
+306598    2040         0.258419                      10.0               1.0   
+306599    2040         0.258419                      10.0               1.0   
+
+        number_of_hours_in_timepoint  static_load_mw  total_power_mw  \
+0                                  1    20417.671842    19619.630559   
+1                                  1    19301.204772    18226.247674   
+2                                  1    19056.184935    17562.401538   
+3                                  1    18590.370557    16045.981156   
+4                                  1    17860.223983    14097.750221   
+...                              ...             ...             ...   
+306595                             1    22616.900053    22488.468707   
+306596                             1    20547.867420    10158.076102   
+306597                             1    19230.033330     8498.544364   
+306598                             1    19725.007199     8048.202716   
+306599                             1    19476.759140     8048.202716   
+
+        net_imports_mw  overgeneration_mw  unserved_energy_mw  \
+0           798.041283                0.0                 0.0   
+1          1074.957098                0.0                 0.0   
+2          1493.783397                0.0                 0.0   
+3          2544.389401                0.0                 0.0   
+4          3762.473762                0.0                 0.0   
+...                ...                ...                 ...   
+306595      128.431345                0.0                 0.0   
+306596    10389.791318                0.0                 0.0   
+306597    10731.488967                0.0                 0.0   
+306598    11676.804484                0.0                 0.0   
+306599    11428.556424                0.0                 0.0   
+
+        load_balance_dual  load_balance_marginal_cost_per_mw  
+0             -101.202475                         -39.162165  
+1              -97.846174                         -37.863382  
+2              -92.698466                         -35.871381  
+3              -95.615031                         -37.000000  
+4              -98.199221                         -38.000000  
+...                   ...                                ...  
+306595        -115.654183                         -44.754519  
+306596        -107.124679                         -41.453870  
+306597        -103.522813                         -40.060062  
+306598        -102.017368                         -39.477502  
+306599        -102.017368                         -39.477502  
+
+[306600 rows x 18 columns]"
+"                                      scenario_name  weather_iteration  \
+0       capex_pier_prm_108_cc_90_hardovergen_2040_9                  9   
+1       capex_pier_prm_108_cc_90_hardovergen_2040_9                  9   
+2       capex_pier_prm_108_cc_90_hardovergen_2040_9                  9   
+3       capex_pier_prm_108_cc_90_hardovergen_2040_9                  9   
+4       capex_pier_prm_108_cc_90_hardovergen_2040_9                  9   
+...                                             ...                ...   
+306595  capex_pier_prm_108_cc_90_hardovergen_2040_9                  9   
+306596  capex_pier_prm_108_cc_90_hardovergen_2040_9                  9   
+306597  capex_pier_prm_108_cc_90_hardovergen_2040_9                  9   
+306598  capex_pier_prm_108_cc_90_hardovergen_2040_9                  9   
+306599  capex_pier_prm_108_cc_90_hardovergen_2040_9                  9   
+
+        hydro_iteration  availability_iteration       load_zone   timepoint  \
+0                     9                       9  Andhra_Pradesh  2040040101   
+1                     9                       9  Andhra_Pradesh  2040040102   
+2                     9                       9  Andhra_Pradesh  2040040103   
+3                     9                       9  Andhra_Pradesh  2040040104   
+4                     9                       9  Andhra_Pradesh  2040040105   
+...                 ...                     ...             ...         ...   
+306595                9                       9     West_Bengal  2041033120   
+306596                9                       9     West_Bengal  2041033121   
+306597                9                       9     West_Bengal  2041033122   
+306598                9                       9     West_Bengal  2041033123   
+306599                9                       9     West_Bengal  2041033124   
+
+        period  discount_factor  number_years_represented  timepoint_weight  \
+0         2040         0.258419                      10.0               1.0   
+1         2040         0.258419                      10.0               1.0   
+2         2040         0.258419                      10.0               1.0   
+3         2040         0.258419                      10.0               1.0   
+4         2040         0.258419                      10.0               1.0   
+...        ...              ...                       ...               ...   
+306595    2040         0.258419                      10.0               1.0   
+306596    2040         0.258419                      10.0               1.0   
+306597    2040         0.258419                      10.0               1.0   
+306598    2040         0.258419                      10.0               1.0   
+306599    2040         0.258419                      10.0               1.0   
+
+        number_of_hours_in_timepoint  static_load_mw  total_power_mw  \
+0                                  1    18848.274729    14862.922117   
+1                                  1    17954.465484    14234.899824   
+2                                  1    17590.601729    13618.521775   
+3                                  1    17467.517999    11508.845525   
+4                                  1    16402.077458    10623.497077   
+...                              ...             ...             ...   
+306595                             1    23382.283263    24060.780677   
+306596                             1    21340.585216    16292.505995   
+306597                             1    20316.227757     8814.450095   
+306598                             1    19801.234958     8814.450095   
+306599                             1    19698.584161     8814.450095   
+
+        net_imports_mw  overgeneration_mw  unserved_energy_mw  \
+0          3985.352612                0.0                 0.0   
+1          3719.565660                0.0                 0.0   
+2          3972.079954                0.0                 0.0   
+3          5958.672474                0.0                 0.0   
+4          5778.580381                0.0                 0.0   
+...                ...                ...                 ...   
+306595     -678.497414                0.0                 0.0   
+306596     5048.079221                0.0                 0.0   
+306597    11501.777662                0.0                 0.0   
+306598    10986.784863                0.0                 0.0   
+306599    10884.134067                0.0                 0.0   
+
+        load_balance_dual  load_balance_marginal_cost_per_mw  
+0              -95.621850                         -37.002639  
+1              -95.621850                         -37.002639  
+2              -95.621850                         -37.002639  
+3              -95.621850                         -37.002639  
+4             -100.783411                         -39.000000  
+...                   ...                                ...  
+306595        -112.583619                         -43.566308  
+306596        -107.779492                         -41.707263  
+306597        -100.174294                         -38.764291  
+306598         -98.691426                         -38.190468  
+306599         -98.691426                         -38.190468  
+
+[306600 rows x 18 columns]"
+"                                       scenario_name  weather_iteration  \
+0       capex_pier_prm_108_cc_90_hardovergen_2040_10                 10   
+1       capex_pier_prm_108_cc_90_hardovergen_2040_10                 10   
+2       capex_pier_prm_108_cc_90_hardovergen_2040_10                 10   
+3       capex_pier_prm_108_cc_90_hardovergen_2040_10                 10   
+4       capex_pier_prm_108_cc_90_hardovergen_2040_10                 10   
+...                                              ...                ...   
+306595  capex_pier_prm_108_cc_90_hardovergen_2040_10                 10   
+306596  capex_pier_prm_108_cc_90_hardovergen_2040_10                 10   
+306597  capex_pier_prm_108_cc_90_hardovergen_2040_10                 10   
+306598  capex_pier_prm_108_cc_90_hardovergen_2040_10                 10   
+306599  capex_pier_prm_108_cc_90_hardovergen_2040_10                 10   
+
+        hydro_iteration  availability_iteration       load_zone   timepoint  \
+0                    10                      10  Andhra_Pradesh  2040040101   
+1                    10                      10  Andhra_Pradesh  2040040102   
+2                    10                      10  Andhra_Pradesh  2040040103   
+3                    10                      10  Andhra_Pradesh  2040040104   
+4                    10                      10  Andhra_Pradesh  2040040105   
+...                 ...                     ...             ...         ...   
+306595               10                      10     West_Bengal  2041033120   
+306596               10                      10     West_Bengal  2041033121   
+306597               10                      10     West_Bengal  2041033122   
+306598               10                      10     West_Bengal  2041033123   
+306599               10                      10     West_Bengal  2041033124   
+
+        period  discount_factor  number_years_represented  timepoint_weight  \
+0         2040         0.258419                      10.0               1.0   
+1         2040         0.258419                      10.0               1.0   
+2         2040         0.258419                      10.0               1.0   
+3         2040         0.258419                      10.0               1.0   
+4         2040         0.258419                      10.0               1.0   
+...        ...              ...                       ...               ...   
+306595    2040         0.258419                      10.0               1.0   
+306596    2040         0.258419                      10.0               1.0   
+306597    2040         0.258419                      10.0               1.0   
+306598    2040         0.258419                      10.0               1.0   
+306599    2040         0.258419                      10.0               1.0   
+
+        number_of_hours_in_timepoint  static_load_mw  total_power_mw  \
+0                                  1    12866.558936    12792.052780   
+1                                  1    12414.280948    11059.011975   
+2                                  1    12218.056330    12936.761282   
+3                                  1    12310.290171    11464.022485   
+4                                  1    12653.763731     9936.625025   
+...                              ...             ...             ...   
+306595                             1    22770.062664    23722.217681   
+306596                             1    21275.153982    22097.666741   
+306597                             1    19603.977850    18244.363917   
+306598                             1    20194.830836     9718.692960   
+306599                             1    19820.811716     9718.692960   
+
+        net_imports_mw  overgeneration_mw  unserved_energy_mw  \
+0            74.506156                0.0                 0.0   
+1          1355.268974                0.0                 0.0   
+2          -718.704952                0.0                 0.0   
+3           846.267686                0.0                 0.0   
+4          2717.138705                0.0                 0.0   
+...                ...                ...                 ...   
+306595     -952.155017                0.0                 0.0   
+306596     -822.512759                0.0                 0.0   
+306597     1359.613933                0.0                 0.0   
+306598    10476.137875                0.0                 0.0   
+306599    10102.118756                0.0                 0.0   
+
+        load_balance_dual  load_balance_marginal_cost_per_mw  
+0              -88.076532                         -34.082839  
+1              -88.076532                         -34.082839  
+2              -88.076532                         -34.082839  
+3              -88.076532                         -34.082839  
+4              -92.119684                         -35.647411  
+...                   ...                                ...  
+306595        -132.667397                         -51.338097  
+306596        -132.667397                         -51.338097  
+306597        -132.667397                         -51.338097  
+306598        -131.067614                         -50.719031  
+306599        -132.589530                         -51.307964  
+
+[306600 rows x 18 columns]"
+"                                       scenario_name  weather_iteration  \
+0       capex_pier_prm_108_cc_90_hardovergen_2040_12                 12   
+1       capex_pier_prm_108_cc_90_hardovergen_2040_12                 12   
+2       capex_pier_prm_108_cc_90_hardovergen_2040_12                 12   
+3       capex_pier_prm_108_cc_90_hardovergen_2040_12                 12   
+4       capex_pier_prm_108_cc_90_hardovergen_2040_12                 12   
+...                                              ...                ...   
+306595  capex_pier_prm_108_cc_90_hardovergen_2040_12                 12   
+306596  capex_pier_prm_108_cc_90_hardovergen_2040_12                 12   
+306597  capex_pier_prm_108_cc_90_hardovergen_2040_12                 12   
+306598  capex_pier_prm_108_cc_90_hardovergen_2040_12                 12   
+306599  capex_pier_prm_108_cc_90_hardovergen_2040_12                 12   
+
+        hydro_iteration  availability_iteration       load_zone   timepoint  \
+0                    12                      12  Andhra_Pradesh  2040040101   
+1                    12                      12  Andhra_Pradesh  2040040102   
+2                    12                      12  Andhra_Pradesh  2040040103   
+3                    12                      12  Andhra_Pradesh  2040040104   
+4                    12                      12  Andhra_Pradesh  2040040105   
+...                 ...                     ...             ...         ...   
+306595               12                      12     West_Bengal  2041033120   
+306596               12                      12     West_Bengal  2041033121   
+306597               12                      12     West_Bengal  2041033122   
+306598               12                      12     West_Bengal  2041033123   
+306599               12                      12     West_Bengal  2041033124   
+
+        period  discount_factor  number_years_represented  timepoint_weight  \
+0         2040         0.258419                      10.0               1.0   
+1         2040         0.258419                      10.0               1.0   
+2         2040         0.258419                      10.0               1.0   
+3         2040         0.258419                      10.0               1.0   
+4         2040         0.258419                      10.0               1.0   
+...        ...              ...                       ...               ...   
+306595    2040         0.258419                      10.0               1.0   
+306596    2040         0.258419                      10.0               1.0   
+306597    2040         0.258419                      10.0               1.0   
+306598    2040         0.258419                      10.0               1.0   
+306599    2040         0.258419                      10.0               1.0   
+
+        number_of_hours_in_timepoint  static_load_mw  total_power_mw  \
+0                                  1    19684.009641    22633.150182   
+1                                  1    18569.012147    22929.834984   
+2                                  1    18362.989975    21235.003567   
+3                                  1    18194.834053    24577.670204   
+4                                  1    17692.938781    19911.727134   
+...                              ...             ...             ...   
+306595                             1    22285.880014    22505.758338   
+306596                             1    20793.280383    21745.435400   
+306597                             1    19153.585272     9536.396028   
+306598                             1    19393.811368     9536.396028   
+306599                             1    18642.048752     9536.396028   
+
+        net_imports_mw  overgeneration_mw  unserved_energy_mw  \
+0         -2949.140541                0.0                 0.0   
+1         -4360.822837                0.0                 0.0   
+2         -2872.013592                0.0                 0.0   
+3         -6382.836151                0.0                 0.0   
+4         -2218.788353                0.0                 0.0   
+...                ...                ...                 ...   
+306595     -219.878324                0.0                 0.0   
+306596     -952.155017                0.0                 0.0   
+306597     9617.189244                0.0                 0.0   
+306598     9857.415340                0.0                 0.0   
+306599     9105.652723                0.0                 0.0   
+
+        load_balance_dual  load_balance_marginal_cost_per_mw  
+0              -76.726163                         -29.690604  
+1              -76.726163                         -29.690604  
+2              -76.726163                         -29.690604  
+3              -76.726163                         -29.690604  
+4              -76.726163                         -29.690604  
+...                   ...                                ...  
+306595        -110.245421                         -42.661499  
+306596        -109.493498                         -42.370529  
+306597        -100.174294                         -38.764291  
+306598         -96.695462                         -37.418093  
+306599         -96.695462                         -37.418093  
+
+[306600 rows x 18 columns]"
+"                                       scenario_name  weather_iteration  \
+0       capex_pier_prm_108_cc_90_hardovergen_2040_16                 16   
+1       capex_pier_prm_108_cc_90_hardovergen_2040_16                 16   
+2       capex_pier_prm_108_cc_90_hardovergen_2040_16                 16   
+3       capex_pier_prm_108_cc_90_hardovergen_2040_16                 16   
+4       capex_pier_prm_108_cc_90_hardovergen_2040_16                 16   
+...                                              ...                ...   
+306595  capex_pier_prm_108_cc_90_hardovergen_2040_16                 16   
+306596  capex_pier_prm_108_cc_90_hardovergen_2040_16                 16   
+306597  capex_pier_prm_108_cc_90_hardovergen_2040_16                 16   
+306598  capex_pier_prm_108_cc_90_hardovergen_2040_16                 16   
+306599  capex_pier_prm_108_cc_90_hardovergen_2040_16                 16   
+
+        hydro_iteration  availability_iteration       load_zone   timepoint  \
+0                    16                      16  Andhra_Pradesh  2040040101   
+1                    16                      16  Andhra_Pradesh  2040040102   
+2                    16                      16  Andhra_Pradesh  2040040103   
+3                    16                      16  Andhra_Pradesh  2040040104   
+4                    16                      16  Andhra_Pradesh  2040040105   
+...                 ...                     ...             ...         ...   
+306595               16                      16     West_Bengal  2041033120   
+306596               16                      16     West_Bengal  2041033121   
+306597               16                      16     West_Bengal  2041033122   
+306598               16                      16     West_Bengal  2041033123   
+306599               16                      16     West_Bengal  2041033124   
+
+        period  discount_factor  number_years_represented  timepoint_weight  \
+0         2040         0.258419                      10.0               1.0   
+1         2040         0.258419                      10.0               1.0   
+2         2040         0.258419                      10.0               1.0   
+3         2040         0.258419                      10.0               1.0   
+4         2040         0.258419                      10.0               1.0   
+...        ...              ...                       ...               ...   
+306595    2040         0.258419                      10.0               1.0   
+306596    2040         0.258419                      10.0               1.0   
+306597    2040         0.258419                      10.0               1.0   
+306598    2040         0.258419                      10.0               1.0   
+306599    2040         0.258419                      10.0               1.0   
+
+        number_of_hours_in_timepoint  static_load_mw  total_power_mw  \
+0                                  1    18427.893283    27213.659168   
+1                                  1    17497.393826    27406.033956   
+2                                  1    17382.999040    25863.100466   
+3                                  1    17013.855677    21957.842850   
+4                                  1    16506.999840    18952.014883   
+...                              ...             ...             ...   
+306595                             1    24618.447629    20181.345402   
+306596                             1    22926.890905    20879.045922   
+306597                             1    21487.897275    18127.383500   
+306598                             1    22327.485851     9413.411921   
+306599                             1    22137.323142     9413.411921   
+
+        net_imports_mw  overgeneration_mw  unserved_energy_mw  \
+0         -8785.765885                0.0                 0.0   
+1         -9908.640131                0.0                 0.0   
+2         -8480.101425                0.0                 0.0   
+3         -4943.987173                0.0                 0.0   
+4         -2445.015043                0.0                 0.0   
+...                ...                ...                 ...   
+306595     4437.102227                0.0                 0.0   
+306596     2047.844983                0.0                 0.0   
+306597     3360.513775                0.0                 0.0   
+306598    12914.073930                0.0                 0.0   
+306599    12723.911221                0.0                 0.0   
+
+        load_balance_dual  load_balance_marginal_cost_per_mw  
+0              -95.977571                         -37.140291  
+1              -95.977571                         -37.140291  
+2              -95.977571                         -37.140291  
+3              -96.944875                         -37.514608  
+4             -100.630714                         -38.940911  
+...                   ...                                ...  
+306595        -124.775875                         -48.284327  
+306596        -117.765630                         -45.571583  
+306597        -117.765630                         -45.571583  
+306598        -105.660492                         -40.887276  
+306599        -105.660492                         -40.887276  
+
+[306600 rows x 18 columns]"
+"                                       scenario_name  weather_iteration  \
+0       capex_pier_prm_108_cc_90_hardovergen_2040_17                 17   
+1       capex_pier_prm_108_cc_90_hardovergen_2040_17                 17   
+2       capex_pier_prm_108_cc_90_hardovergen_2040_17                 17   
+3       capex_pier_prm_108_cc_90_hardovergen_2040_17                 17   
+4       capex_pier_prm_108_cc_90_hardovergen_2040_17                 17   
+...                                              ...                ...   
+306595  capex_pier_prm_108_cc_90_hardovergen_2040_17                 17   
+306596  capex_pier_prm_108_cc_90_hardovergen_2040_17                 17   
+306597  capex_pier_prm_108_cc_90_hardovergen_2040_17                 17   
+306598  capex_pier_prm_108_cc_90_hardovergen_2040_17                 17   
+306599  capex_pier_prm_108_cc_90_hardovergen_2040_17                 17   
+
+        hydro_iteration  availability_iteration       load_zone   timepoint  \
+0                    17                      17  Andhra_Pradesh  2040040101   
+1                    17                      17  Andhra_Pradesh  2040040102   
+2                    17                      17  Andhra_Pradesh  2040040103   
+3                    17                      17  Andhra_Pradesh  2040040104   
+4                    17                      17  Andhra_Pradesh  2040040105   
+...                 ...                     ...             ...         ...   
+306595               17                      17     West_Bengal  2041033120   
+306596               17                      17     West_Bengal  2041033121   
+306597               17                      17     West_Bengal  2041033122   
+306598               17                      17     West_Bengal  2041033123   
+306599               17                      17     West_Bengal  2041033124   
+
+        period  discount_factor  number_years_represented  timepoint_weight  \
+0         2040         0.258419                      10.0               1.0   
+1         2040         0.258419                      10.0               1.0   
+2         2040         0.258419                      10.0               1.0   
+3         2040         0.258419                      10.0               1.0   
+4         2040         0.258419                      10.0               1.0   
+...        ...              ...                       ...               ...   
+306595    2040         0.258419                      10.0               1.0   
+306596    2040         0.258419                      10.0               1.0   
+306597    2040         0.258419                      10.0               1.0   
+306598    2040         0.258419                      10.0               1.0   
+306599    2040         0.258419                      10.0               1.0   
+
+        number_of_hours_in_timepoint  static_load_mw  total_power_mw  \
+0                                  1    18659.476037    22835.850976   
+1                                  1    18451.002646    20933.193412   
+2                                  1    18373.755752    19933.980973   
+3                                  1    18307.995472    18250.448603   
+4                                  1    17737.302950    17084.112350   
+...                              ...             ...             ...   
+306595                             1    21921.249728    20727.084556   
+306596                             1    20258.515660    14796.386130   
+306597                             1    19347.199321    14378.094003   
+306598                             1    18051.587558     9134.126224   
+306599                             1    18125.972842     9982.502335   
+
+        net_imports_mw  overgeneration_mw  unserved_energy_mw  \
+0         -4176.374938                0.0                 0.0   
+1         -2482.190766                0.0                 0.0   
+2         -1560.225221                0.0                 0.0   
+3            57.546869                0.0                 0.0   
+4           653.190600                0.0                 0.0   
+...                ...                ...                 ...   
+306595     1194.165172                0.0                 0.0   
+306596     5462.129530                0.0                 0.0   
+306597     4969.105317                0.0                 0.0   
+306598     8917.461334                0.0                 0.0   
+306599     8143.470507                0.0                 0.0   
+
+        load_balance_dual  load_balance_marginal_cost_per_mw  
+0              -88.076532                         -34.082839  
+1              -89.694864                         -34.709082  
+2              -88.076532                         -34.082839  
+3              -88.076532                         -34.082839  
+4              -88.745190                         -34.341588  
+...                   ...                                ...  
+306595         -97.707380                         -37.809673  
+306596         -97.707380                         -37.809673  
+306597         -97.707380                         -37.809673  
+306598         -97.707380                         -37.809673  
+306599         -97.707380                         -37.809673  
+
+[306600 rows x 18 columns]"
