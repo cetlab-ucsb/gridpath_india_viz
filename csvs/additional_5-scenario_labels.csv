@@ -1,5 +1,5 @@
 zone,scenario,label,color,linestyle,linewidth,order,marker,path
-all,VREmid_STmid_CONVmid_H2_RES_8PRM_CC_50RPS_90CAP_500GW_PIERmid,Bottom-up Demand (mid) - REF,#ca8250,solid,3,9,None,/Users/Guille/Desktop/india_power/scenarios/cost
-all,VREmid_STmid_CONVmid_H2_NoNewGas_RES_8PRM_CC_50RPS_90CAP_500GW_PIERmid,No New Gas & REF,#92918b,dashed,1.5,9,None,/Users/Guille/Desktop/india_power/scenarios/additional
-all,VREmid_STmid_CONVmid_H2_NoNewGas_NoCoalPipeline_RES_8PRM_CC_50RPS_90CAP_500GW_PIERmid,No New Coal and Gas & REF,#136564,dotted,1.5,9,None,/Users/Guille/Desktop/india_power/scenarios/additional
-all,VREmid_STmid_CONVmid_H2_NoNewGas_NoCoalPipepile_NoNewCoal_RES_8PRM_CC_50RPS_90CAP_500GW_PIERmid,No New Coal and Gas & No Pipeline Coal & REF,#2cb7b5,dashdot,1.5,9,None,/Users/Guille/Desktop/india_power/scenarios/additional
+all,VREmid_STmid_CONVmid_H2_RES_8PRM_CC_50RPS_90CAP_500GW_PIERmid,Bottom-up Demand (mid) - REF,#ca8250,solid,4.5,9,None,/Users/Guille/Desktop/india_power/scenarios/gridpath-india/cost
+all,VREmid_STmid_CONVmid_H2_NoNewGas_RES_8PRM_CC_50RPS_90CAP_500GW_PIERmid,No New Gas & REF,#92918b,dashed,3,9,None,/Users/Guille/Desktop/india_power/scenarios/gridpath-india/additional
+all,VREmid_STmid_CONVmid_H2_NoNewGas_NoCoalPipeline_RES_8PRM_CC_50RPS_90CAP_500GW_PIERmid,No New Coal and Gas & REF,#136564,dotted,3,9,None,/Users/Guille/Desktop/india_power/scenarios/gridpath-india/additional
+all,VREmid_STmid_CONVmid_H2_NoNewGas_NoCoalPipepile_NoNewCoal_RES_8PRM_CC_50RPS_90CAP_500GW_PIERmid,No New Coal and Gas & No Pipeline Coal & REF,#2cb7b5,dashdot,3,9,None,/Users/Guille/Desktop/india_power/scenarios/gridpath-india/additional

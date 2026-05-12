@@ -1,10 +1,10 @@
 zone,scenario,label,color,linestyle,linewidth,order,marker,path
-all,PC2030_1prob_VRElow_STlow_CONVmid_RES_H2_8PRM_CC_50RPS_90CAP_500GW_PIERmid_startup,VRE & ESS (low) Coal (low) - REF,#92918b,solid,3,10,None,/Users/Guille/Desktop/india_power/scenarios/pcm
-all,PC2040_1prob_VRElow_STlow_CONVmid_RES_H2_8PRM_CC_50RPS_90CAP_500GW_PIERmid_startup,VRE & ESS (low) Coal (low) - REF,#92918b,solid,3,10,None,/Users/Guille/Desktop/india_power/scenarios/pcm
-all,PC2050_1prob_VRElow_STlow_CONVmid_RES_H2_8PRM_CC_50RPS_90CAP_500GW_PIERmid_startup,VRE & ESS (low) Coal (low) - REF,#92918b,solid,3,10,None,/Users/Guille/Desktop/india_power/scenarios/pcm
-all,PC2030_1prob_VREmid_STmid_CONVmid_RES_H2_8PRM_CC_50RPS_90CAP_500GW_PIERmid_startup,VRE & ESS (mid) Coal (low) - REF,#ca8250,solid,3,10,None,/Users/Guille/Desktop/india_power/scenarios/pcm
-all,PC2040_1prob_VREmid_STmid_CONVmid_RES_H2_8PRM_CC_50RPS_90CAP_500GW_PIERmid_startup,VRE & ESS (mid) Coal (low) - REF,#ca8250,solid,3,10,None,/Users/Guille/Desktop/india_power/scenarios/pcm
-all,PC2050_1prob_VREmid_STmid_CONVmid_RES_H2_8PRM_CC_50RPS_90CAP_500GW_PIERmid_startup,VRE & ESS (mid) Coal (low) - REF,#ca8250,solid,3,10,None,/Users/Guille/Desktop/india_power/scenarios/pcm
-all,PC2030_1prob_VREhigh_SThigh_CONVmid_RES_H2_8PRM_CC_50RPS_90CAP_500GW_PIERmid_startup,VRE & ESS (high) Coal (low) - REF,#136564,solid,3,10,None,/Users/Guille/Desktop/india_power/scenarios/pcm
-all,PC2040_1prob_VREhigh_SThigh_CONVmid_RES_H2_8PRM_CC_50RPS_90CAP_500GW_PIERmid_startup,VRE & ESS (high) Coal (low) - REF,#136564,solid,3,10,None,/Users/Guille/Desktop/india_power/scenarios/pcm
-all,PC2050_1prob_VREhigh_SThigh_CONVmid_RES_H2_8PRM_CC_50RPS_90CAP_500GW_PIERmid_startup,VRE & ESS (high) Coal (low) - REF,#136564,solid,3,10,None,/Users/Guille/Desktop/india_power/scenarios/pcm
+all,PC2030_1prob_VRElow_STlow_CONVmid_RES_H2_8PRM_CC_50RPS_90CAP_500GW_PIERmid_startup,VRE & ESS (low) Coal (low) - REF,#92918b,solid,3,10,None,/Users/Guille/Desktop/india_power/scenarios/gridpath-india/pcm
+all,PC2040_1prob_VRElow_STlow_CONVmid_RES_H2_8PRM_CC_50RPS_90CAP_500GW_PIERmid_startup,VRE & ESS (low) Coal (low) - REF,#92918b,solid,3,10,None,/Users/Guille/Desktop/india_power/scenarios/gridpath-india/pcm
+all,PC2050_1prob_VRElow_STlow_CONVmid_RES_H2_8PRM_CC_50RPS_90CAP_500GW_PIERmid_startup,VRE & ESS (low) Coal (low) - REF,#92918b,solid,3,10,None,/Users/Guille/Desktop/india_power/scenarios/gridpath-india/pcm
+all,PC2030_1prob_VREmid_STmid_CONVmid_RES_H2_8PRM_CC_50RPS_90CAP_500GW_PIERmid_startup,VRE & ESS (mid) Coal (low) - REF,#ca8250,solid,3,10,None,/Users/Guille/Desktop/india_power/scenarios/gridpath-india/pcm
+all,PC2040_1prob_VREmid_STmid_CONVmid_RES_H2_8PRM_CC_50RPS_90CAP_500GW_PIERmid_startup,VRE & ESS (mid) Coal (low) - REF,#ca8250,solid,3,10,None,/Users/Guille/Desktop/india_power/scenarios/gridpath-india/pcm
+all,PC2050_1prob_VREmid_STmid_CONVmid_RES_H2_8PRM_CC_50RPS_90CAP_500GW_PIERmid_startup,VRE & ESS (mid) Coal (low) - REF,#ca8250,solid,3,10,None,/Users/Guille/Desktop/india_power/scenarios/gridpath-india/pcm
+all,PC2030_1prob_VREhigh_SThigh_CONVmid_RES_H2_8PRM_CC_50RPS_90CAP_500GW_PIERmid_startup,VRE & ESS (high) Coal (low) - REF,#136564,solid,3,10,None,/Users/Guille/Desktop/india_power/scenarios/gridpath-india/pcm
+all,PC2040_1prob_VREhigh_SThigh_CONVmid_RES_H2_8PRM_CC_50RPS_90CAP_500GW_PIERmid_startup,VRE & ESS (high) Coal (low) - REF,#136564,solid,3,10,None,/Users/Guille/Desktop/india_power/scenarios/gridpath-india/pcm
+all,PC2050_1prob_VREhigh_SThigh_CONVmid_RES_H2_8PRM_CC_50RPS_90CAP_500GW_PIERmid_startup,VRE & ESS (high) Coal (low) - REF,#136564,solid,3,10,None,/Users/Guille/Desktop/india_power/scenarios/gridpath-india/pcm
