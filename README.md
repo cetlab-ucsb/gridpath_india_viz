@@ -53,8 +53,14 @@ Clone the repository:
 ```bash
 git clone https://github.com/cetlab-ucsb/gridpath_india_viz.git
 cd gridpath_india_viz
+```
 
+Create conda environment:
+```bash
 conda create -n india_viz python=3.11
 conda activate india_viz
-
+```
+Install package requirements
+```bash
 pip install -r requirements.txt
+```
