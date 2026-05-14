@@ -10,9 +10,34 @@ This repository contains Python plotting functionality designed to support visua
 ## Repository Structure
 
 ### `csvs/`
+Scenario metadata, technology mappings, and labeling tables used for post-processing and visualization.
 
-Path to scenario result outputs from GridPath-India. Technology colors and groups (`technology_labels.csv`).
+These CSV files define:
+- scenario groupings
+- visualization labels
+- technology mappings
+- zone mappings
+- comparison sets for figures and tables
 
+CVS files include:
+
+- `technology_labels.csv`: standardized technology names and plotting labels.
+
+- `zone_labels.csv`: mappings for load zones with labels and names.
+
+- `cost-scenario_labels.csv`: scenario definitions used for technology cost comparisons.
+
+- `demand-scenario_labels.csv`: bottom-up and linearly-scalled demand sensitivity scenarios.
+
+- `prm-scenario_labels.csv`: planning reserve margin scenarios.
+
+- `pier-scenario_labels.csv`: policy scenarios for bottom-up demand.
+
+- `iced-scenario_labels.csv`: policy scenarios for linearly-scaled demand.
+
+- `alternative-scenario_labels.csv`: alternative technologies scenarios.
+
+- `pcm-scenario_labels.csv`: production cost model scenarios.
 
 ### `notebooks/`
 Interactive Jupyter notebooks for exploratory analysis, diagnostics, figure generation, and manuscript preparation.
