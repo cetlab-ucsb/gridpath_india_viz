@@ -9,7 +9,7 @@ This repository contains Python plotting functionality designed to support visua
 ### `csvs/`
 Scenario metadata, technology mappings, and labeling tables used for post-processing and visualization.
 
-These CSV files define:
+These CSV files are used to define:
 - scenario groupings
 - visualization labels
 - technology mappings
