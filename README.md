@@ -6,9 +6,6 @@ This repository contains Python plotting functionality designed to support visua
 
 ##  Repository Structure
 
-
-## Repository Structure
-
 ### `csvs/`
 Scenario metadata, technology mappings, and labeling tables used for post-processing and visualization.
 
