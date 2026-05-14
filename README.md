@@ -51,17 +51,17 @@ Jupyter notebooks for exploratory analysis, diagnostics, publication figures, an
 - `system-land_used.ipynb`: Land-use implications of energy infrastructure deployment.
 - `system_zone-energy_dispatch.ipynb`: Temporal and spatial dispatch analysis by load zone.
 
-#### Regional and Zonal Analysis
+#### Load Zone-Level Analysis
 
 - `zone-capacity_generation.ipynb`: Capacity and generation breakdowns at the load zones.
 - `zone-demand_profiles.ipynb`: Load zone demand profiles and temporal load characteristics.
 - `zone-capacity_factors-inertia-installation_rates.ipynb`: Capacity factors, system inertia metrics, and installation rate analysis.
 
-#### Transmission and Network Analysis
+#### Transmission Analysis
 
 - `summary-transmission.ipynb`: Transmission expansion and interregional transfer analysis.
 
-#### Economic and Cost Analysis
+#### Technology Cost Analysis
 
 - `overview-technology_costs.ipynb`:  India-specific new projects technology cost projections.
 - `specified_costs.ipynb`: India-specific existing technology costs.
