@@ -17,7 +17,7 @@ Path to scenario result outputs from GridPath-India. Technology colors and group
 ### `notebooks/`
 Interactive Jupyter notebooks for exploratory analysis, diagnostics, figure generation, and manuscript preparation.
 
-Notebooks to generate figures:
+Notebooks to generate the figures in the manuscript:
 - `overview-electricity_system.ipynb`
 - `system-capacity_generation.ipynb`
 - `system-summary.ipynb`
