@@ -17,22 +17,23 @@ Path to scenario result outputs from GridPath-India. Technology colors and group
 ### `notebooks/`
 Interactive Jupyter notebooks for exploratory analysis, diagnostics, figure generation, and manuscript preparation.
 
-Key notebooks include:
-
+Notebooks to generate figures:
 - `overview-electricity_system.ipynb`
 - `system-capacity_generation.ipynb`
 - `system-summary.ipynb`
 - `summary-transmission.ipynb`
 - `system_zone-energy_dispatch.ipynb`
+
+Notebooks to replicate the results reported in the manuscript.
 - `paper.ipynb`
+- `tables.ipynb`
 
 ### `src/`
 Reusable Python modules for loading, processing, and visualizing GridPath outputs.
 
 - `loading.py` — database and CSV loading utilities
 - `processing.py` — post-processing and aggregation functions
-- `visualization.py` / `viz.py` — plotting utilities
-- `utils.py` — helper functions
+- `visualization.py` — plotting utilities
 
 ### `templates/`
 Reusable plotting templates and dashboard utilities for automated figure generation.
