@@ -6,9 +6,13 @@ This repository contains Python plotting functionality designed to support visua
 
 ##  Repository Structure
 
-`csvs/`: Path to scenario result outputs from GridPath-India. Technology colors and groups (`technology_labels.csv`).
 
 ## Repository Structure
+
+### `csvs/`
+
+Path to scenario result outputs from GridPath-India. Technology colors and groups (`technology_labels.csv`).
+
 
 ### `notebooks/`
 Interactive Jupyter notebooks for exploratory analysis, diagnostics, figure generation, and manuscript preparation.
