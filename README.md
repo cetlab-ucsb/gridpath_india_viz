@@ -1,4 +1,4 @@
-# GridPath-India Plotting Companion
+# GridPath-India visualization toolkit
 
 **Visualization toolkit for GridPath-India Capacity Expansion Model (CEM) and Production Cost Model (PCM)**  
 
