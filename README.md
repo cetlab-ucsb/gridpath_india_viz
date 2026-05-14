@@ -37,18 +37,43 @@ CVS files include:
 - `pcm-scenario_labels.csv`: production cost model scenarios.
 
 ### `notebooks/`
-Interactive Jupyter notebooks for exploratory analysis, diagnostics, figure generation, and manuscript preparation.
 
-Notebooks to generate the figures in the manuscript:
-- `overview-electricity_system.ipynb`
-- `system-capacity_generation.ipynb`
-- `system-summary.ipynb`
-- `summary-transmission.ipynb`
-- `system_zone-energy_dispatch.ipynb`
+Jupyter notebooks for exploratory analysis, diagnostics, publication figures, and manuscript tables.
 
-Notebooks to replicate the results reported in the manuscript.
-- `paper.ipynb`
-- `tables.ipynb`
+#### System-Level Analysis
+
+- `overview-electricity_system.ipynb`: High-level overview of currect electricity system.
+- `system-summary.ipynb`: Emission, costs and clean energy summary aggregated at the system level.
+- `system-capacity_summary.ipynb`: Installed capacity, emission and cost summaries by technology and scenario.
+- `system-capacity_generation.ipynb`: Analysis of installed capacity and electricity generation.
+- `system-retirements.ipynb`: Generator retirement trajectories across planning horizons.
+- `system-technology_costs.ipynb`: Evolution of technology costs and investment assumptions.
+- `system-land_used.ipynb`: Land-use implications of energy infrastructure deployment.
+- `system_zone-energy_dispatch.ipynb`: Temporal and spatial dispatch analysis by load zone.
+
+#### Regional and Zonal Analysis
+
+- `zone-capacity_generation.ipynb`: Capacity and generation breakdowns at the load zones.
+- `zone-demand_profiles.ipynb`: Load zone demand profiles and temporal load characteristics.
+- `zone-capacity_factors-inertia-installation_rates.ipynb`: Capacity factors, system inertia metrics, and installation rate analysis.
+
+#### Transmission and Network Analysis
+
+- `summary-transmission.ipynb`: Transmission expansion and interregional transfer analysis.
+
+#### Economic and Cost Analysis
+
+- `overview-technology_costs.ipynb`:  India-specific new projects technology cost projections.
+- `specified_costs.ipynb`: India-specific existing technology costs.
+
+#### Diagnostics and Validation
+
+- `diagnostic_plots.ipynb`: Diagnostic visualizations and quality-control checks for model outputs.
+
+#### Manuscript Preparation
+
+- `tables.ipynb`: Automated generation of manuscript-ready tables.
+- `paper.ipynb`: Central notebook used for producing results included in manuscript.
 
 ### `src/`
 Reusable Python modules for loading, processing, and visualizing GridPath outputs.
