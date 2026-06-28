@@ -1,7 +1,2 @@
 zone,scenario,label,color,linestyle,linewidth,order,marker,path
-all,VREmid_STmid_CONVmid_H2_RES_50RPS_90CAP_500GW_12PIERmid_unit,12days unit-level,#92918b,solid,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/pollution
-all,VREmid_STmid_CONVmid_H2_RES_50RPS_90CAP_500GW_24PIERmid_unit,24days unit-level,#136564,dashed,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/pollution
-all,VREmid_STmid_CONVmid_H2_RES_50RPS_90CAP_500GW_PIERmid,24days load_zone-level - REF,#ca8250,solid,3,9,None,/Users/Guille/Desktop/india_power/scenarios/pollution
-all,VREmid_STmid_CONVmid_H2_RES_PRM8_CC_50RPS_90CAP_500GW_12PIERmid_unit,12days PRM8 unit-level,#2cb7b5,dotted,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/pollution
-all,VREmid_STmid_CONVmid_H2_RES_PRM8_CC_50RPS_90CAP_500GW_24PIERmid_unit,24days PRM8 unit-level,#756a01,dashdot,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/pollution
-all,VREmid_STmid_CONVmid_H2_RES_8PRM_CC_50RPS_90CAP_500GW_PIERmid,24days PRM8 load_zone-level,#d8a581,dashed,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/pollution
+all,CEM_PIERmid_PRMno_CAPno_lz,24days lz-level CAPno,#92918b,solid,1.5,10,None,/home/gterren/india_power/scenarios/gridpath-india-pollution/cem

@@ -1,7 +1,0 @@
-zone,scenario,label,color,linestyle,linewidth,order,marker,path
-all,VREmid_STmid_CONVmid_H2_RES_PIERmid,"No PRM, Carbon Target, RPO and Clean Target",#92918b,solid,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/prayas
-all,VREmid_STmid_CONVmid_H2_RES_8PRM_CC_PIERmid,"No Carbon Target, RPO and Clean Target",#136564,dashed,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/pier
-all,VREmid_STmid_CONVmid_H2_RES_500GW_PIERmid,"No PRM, Carbon Target and RPO",#756a01,dotted,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/prayas
-all,VREmid_STmid_CONVmid_H2_RES_8PRM_CC_500GW_PIERmid,No Carbon Target and RPO,#2cb7b5,dashdot,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/prayas
-all,VREmid_STmid_CONVmid_H2_RES_8PRM_CC_50RPS_PIERmid,No Carbon Target and Clean Target,#ca8250,solid,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/prayas
-all,VREmid_STmid_CONVmid_H2_RES_8PRM_CC_50RPS_500GW_PIERmid,No Carbon Target,#d8a581,dashed,1.5,10,None,/Users/Guille/Desktop/india_power/scenarios/prayas
