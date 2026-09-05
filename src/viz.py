@@ -135,13 +135,13 @@ def _plot_new_and_existing_capacity(ax, df_, scens_label_, tech_label_,
     x_period_ = np.mean(np.array(x_period_).reshape(len(scens_), len(periods_)), axis = 0)
     y_period_ = np.max(np.array(offsets_).reshape(len(scens_), len(periods_)), axis = 0)
 
-    ax.set_ylabel(ylabel, fontsize = 18)
+    ax.set_ylabel(ylabel, fontsize = 20)
 
     if legend:
-        ax.legend(loc            = 'center left',
+        ax.legend(loc = 'center left',
                   bbox_to_anchor = (1, 0.5),
-                  frameon        = False,
-                  prop           = {'size': 15})
+                  frameon = False,
+                  prop = {'size': 18})
 
     if y_lim_max != None:
         ax.set_ylim(0., y_lim_max)
@@ -156,19 +156,19 @@ def _plot_new_and_existing_capacity(ax, df_, scens_label_, tech_label_,
     ax.set_yticks(y_ticks_, y_ticks_)
     ax.set_xticks(x_period_, periods_)
 
-    ax.xaxis.set_tick_params(labelsize = 19, 
-                             left      = False)
+    ax.xaxis.set_tick_params(labelsize = 22, 
+                             left = False)
     
-    ax.yaxis.set_tick_params(labelsize = 15, 
-                             left      = False)
+    ax.yaxis.set_tick_params(labelsize = 18, 
+                             left = False)
     
     ax.yaxis.set_major_formatter(mpl.ticker.StrMethodFormatter('{x:,.0f}'))
 
     ax.axhline(0, linewidth = .5, 
                   linestyle = '-', 
-                  color     = 'k', 
-                  clip_on   = False, 
-                  zorder    = 10)
+                  color = 'k', 
+                  clip_on = False, 
+                  zorder = 10)
     
     ax.set_title(title, fontsize = 20, y = 0.912)
 
@@ -300,14 +300,14 @@ def _plot_new_and_existing_storage(ax, df_, scens_label_, tech_label_,
     x_period_ = np.mean(np.array(x_period_).reshape(len(scens_), len(periods_)), axis = 0)
     y_period_ = np.max(np.array(offsets_).reshape(len(scens_), len(periods_)), axis = 0)
 
-    ax.set_ylabel(ylabel, fontsize = 18)
+    ax.set_ylabel(ylabel, fontsize = 20)
 
 
     if legend:
         ax.legend(loc            = 'center left',
                   bbox_to_anchor = (1, 0.5),
                   frameon        = False,
-                  prop           = {'size': 15})
+                  prop           = {'size': 18})
 
     if y_lim_max != None:
         ax.set_ylim(0., y_lim_max)
@@ -322,10 +322,10 @@ def _plot_new_and_existing_storage(ax, df_, scens_label_, tech_label_,
     #ax.set_xticks(ticks_, labels_, rotation = 90)
     ax.set_xticks(x_period_, periods_)
     
-    ax.xaxis.set_tick_params(labelsize = 19, 
+    ax.xaxis.set_tick_params(labelsize = 22, 
                              left      = False)
     
-    ax.yaxis.set_tick_params(labelsize = 15, 
+    ax.yaxis.set_tick_params(labelsize = 18, 
                              left      = False)
 
     ax.yaxis.set_major_formatter(mpl.ticker.StrMethodFormatter('{x:,.0f}'))
@@ -467,7 +467,7 @@ def _plot_dispatch(ax, df_, scens_label_, tech_label_,
     x_period_ = np.mean(np.array(x_period_).reshape(len(scens_), len(periods_)), axis = 0)
     y_period_ = np.max(np.array(y_period_).reshape(len(scens_), len(periods_)), axis = 0)
 
-    ax.set_ylabel(ylabel, fontsize = 18)
+    ax.set_ylabel(ylabel, fontsize = 20)
 
     ax.axhline(0, linewidth = .5, 
                   linestyle = '-', 
@@ -479,7 +479,7 @@ def _plot_dispatch(ax, df_, scens_label_, tech_label_,
         ax.legend(loc            = 'center left',
                   bbox_to_anchor = (1.025, 0.6),
                   frameon        = False,
-                  prop           = {'size': 15})
+                  prop           = {'size': 18})
 
     if (y_lim_min != None) & (y_lim_max != None):
         ax.set_ylim(y_lim_min, y_lim_max)
@@ -492,8 +492,8 @@ def _plot_dispatch(ax, df_, scens_label_, tech_label_,
     #ax.set_xticks(ticks_, labels_, rotation = 90)
     ax.set_xticks(x_period_, periods_)
 
-    ax.xaxis.set_tick_params(labelsize = 19, left = False)
-    ax.yaxis.set_tick_params(labelsize = 15, left = False)
+    ax.xaxis.set_tick_params(labelsize = 22, left = False)
+    ax.yaxis.set_tick_params(labelsize = 18, left = False)
 
     ax.yaxis.set_major_formatter(mpl.ticker.StrMethodFormatter('{x:,.0f}'))
 

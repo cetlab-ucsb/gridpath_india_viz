@@ -316,7 +316,7 @@ def _load_capacity(scen_labels_):
         capacity_ = pd.read_csv(dir_name + r'/results/project_period.csv', low_memory = False)
         df_       = __load_new_and_existing_csv(capacity_, scen)
         
-        # Load specified capacity from csv files
+        # Load the specified capacity from the CSV files
         dfs_.append(df_)
 
     return pd.concat(dfs_, axis = 0).reset_index(drop = True)
